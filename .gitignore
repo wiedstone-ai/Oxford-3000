@@ -1,0 +1,30 @@
+# Audio files & archives (tidak diunggah ke GitHub sesuai instruksi)
+Audio Oxford 3000/
+Audio_Oxford_3000_Full.zip
+*.zip
+*.mp3
+*.wav
+
+# Large databases & raw archives
+kamus.sql
+kamus.sql.tar.xz
+*.dump.json
+
+# Intermediate audit files
+audit_*.json
+*issues*.json
+print_*.py
+test_*.py
+check_*.py
+
+# Credentials & secrets
+credentials*.json
+*token*.json
+
+# Logs & temp files
+*.log
+scratch/
+__pycache__/
+*.pyc
+.system_generated/
+test_audio/

@@ -1,0 +1,2585 @@
+[
+  {
+    "row": 58,
+    "level": "A1",
+    "word": "bank (money)",
+    "pos": "n.",
+    "entry": "bank (money) n.",
+    "old": "bank, tepi sungai",
+    "new": "tepi sungai, bantaran sungai"
+  },
+  {
+    "row": 90,
+    "level": "A1",
+    "word": "book",
+    "pos": "n.",
+    "entry": "book n.",
+    "old": "buku, memesan",
+    "new": "memesan (tiket/tempat), membukukan"
+  },
+  {
+    "row": 120,
+    "level": "A1",
+    "word": "can1",
+    "pos": "modal v.",
+    "entry": "can1 modal v.",
+    "old": "bisa, dapat, kaleng",
+    "new": "kaleng"
+  },
+  {
+    "row": 131,
+    "level": "A1",
+    "word": "centre",
+    "pos": "n.",
+    "entry": "centre n.",
+    "old": "= CENTER",
+    "new": "pusat, tengah"
+  },
+  {
+    "row": 150,
+    "level": "A1",
+    "word": "close1",
+    "pos": "v.",
+    "entry": "close1 v.",
+    "old": "menutup, dekat, akrab",
+    "new": "dekat, akrab, rapat"
+  },
+  {
+    "row": 262,
+    "level": "A1",
+    "word": "fall",
+    "pos": "v.",
+    "entry": "fall v.",
+    "old": "jatuh, musim gugur",
+    "new": "jatuh, runtuh, turun"
+  },
+  {
+    "row": 296,
+    "level": "A1",
+    "word": "fly",
+    "pos": "v.",
+    "entry": "fly v.",
+    "old": "terbang, lalat",
+    "new": "terbang, menerbangkan"
+  },
+  {
+    "row": 416,
+    "level": "A1",
+    "word": "kind (type)",
+    "pos": "n.",
+    "entry": "kind (type) n.",
+    "old": "jenis, macam, baik hati",
+    "new": "jenis, macam, tipe"
+  },
+  {
+    "row": 422,
+    "level": "A1",
+    "word": "last1 (final)",
+    "pos": "det.",
+    "entry": "last1 (final) det.",
+    "old": "terakhir, lalu, bertahan",
+    "new": "terakhir, yang lalu"
+  },
+  {
+    "row": 436,
+    "level": "A1",
+    "word": "light (from the sun/a lamp)",
+    "pos": "n., adj.",
+    "entry": "light (from the sun/a lamp) n., adj.",
+    "old": "cahaya, lampu, terang, ringan",
+    "new": "ringan, terang, muda (warna)"
+  },
+  {
+    "row": 463,
+    "level": "A1",
+    "word": "May",
+    "pos": "n.",
+    "entry": "May n.",
+    "old": "Mei, boleh, mungkin",
+    "new": "boleh, mungkin, dapat"
+  },
+  {
+    "row": 533,
+    "level": "A1",
+    "word": "object",
+    "pos": "n.",
+    "entry": "object n.",
+    "old": "objek, benda, keberatan",
+    "new": "keberatan, menolak"
+  },
+  {
+    "row": 614,
+    "level": "A1",
+    "word": "present",
+    "pos": "adj., n.",
+    "entry": "present adj., n.",
+    "old": "hadir, masa kini, hadiah, menyajikan",
+    "new": "menyajikan, mempersembahkan, memperkenalkan"
+  },
+  {
+    "row": 668,
+    "level": "A1",
+    "word": "second1 (next after the first)",
+    "pos": "det./number",
+    "entry": "second1 (next after the first) det./number",
+    "old": "kedua, detik",
+    "new": "kedua, di tempat kedua"
+  },
+  {
+    "row": 669,
+    "level": "A1",
+    "word": "second1 (unit of time)",
+    "pos": "n.",
+    "entry": "second1 (unit of time) n.",
+    "old": "kedua, detik",
+    "new": "kedua, di tempat kedua"
+  },
+  {
+    "row": 705,
+    "level": "A1",
+    "word": "snake",
+    "pos": "n.",
+    "entry": "snake n.",
+    "old": "ular, kawat yang panjang  untuk membersihkan saluran yang tersumbat. -to s. o's way berjalan membelok-belok . s. charmer penjinak ular, tukang sihir ular. s. pit lobang untuk ular-ular",
+    "new": "ular, kawat yang panjang untuk membersihkan saluran yang tersumbat. -to s. o's way berjalan membelok-belok . s. charmer penjinak ular, tukang sihir ular. s. pit lobang untuk ular-ular"
+  },
+  {
+    "row": 727,
+    "level": "A1",
+    "word": "spring",
+    "pos": "n.",
+    "entry": "spring n.",
+    "old": "musim semi, mata air, pegas",
+    "new": "melompat, memantul, muncul tiba-tiba"
+  },
+  {
+    "row": 729,
+    "level": "A1",
+    "word": "star",
+    "pos": "n.",
+    "entry": "star n.",
+    "old": "bintang",
+    "new": "membintangi, menjadi bintang utama"
+  },
+  {
+    "row": 810,
+    "level": "A1",
+    "word": "train",
+    "pos": "n.",
+    "entry": "train n.",
+    "old": "kereta api, melatih",
+    "new": "melatih, berlatih"
+  },
+  {
+    "row": 813,
+    "level": "A1",
+    "word": "trip",
+    "pos": "n.",
+    "entry": "trip n.",
+    "old": "perjalanan, tamasya",
+    "new": "tersandung, menjegal"
+  },
+  {
+    "row": 874,
+    "level": "A1",
+    "word": "will",
+    "pos": "modal v.",
+    "entry": "will modal v.",
+    "old": "akan, kemauan, surat wasiat",
+    "new": "kemauan, tekad, surat wasiat"
+  },
+  {
+    "row": 892,
+    "level": "A1",
+    "word": "yeah",
+    "pos": "exclam.",
+    "entry": "yeah exclam.",
+    "old": ": yah",
+    "new": "yah"
+  },
+  {
+    "row": 906,
+    "level": "A2",
+    "word": "according to",
+    "pos": "prep.",
+    "entry": "according to prep.",
+    "old": "According to",
+    "new": "menurut, sesuai dengan, berdasarkan"
+  },
+  {
+    "row": 909,
+    "level": "A2",
+    "word": "active",
+    "pos": "adj.",
+    "entry": "active adj.",
+    "old": "Active",
+    "new": "aktif, giat, bertenaga"
+  },
+  {
+    "row": 912,
+    "level": "A2",
+    "word": "advantage",
+    "pos": "n.",
+    "entry": "advantage n.",
+    "old": "keuntungan. to take a. of, mengambil  keuntungan dari, mempergunakan kesempatan",
+    "new": "keuntungan. to take a. of, mengambil keuntungan dari, mempergunakan kesempatan"
+  },
+  {
+    "row": 924,
+    "level": "A2",
+    "word": "all right",
+    "pos": "adj./adv., exclam.",
+    "entry": "all right adj./adv., exclam.",
+    "old": "All right",
+    "new": "baiklah, baik-baik saja, tidak apa-apa"
+  },
+  {
+    "row": 928,
+    "level": "A2",
+    "word": "along",
+    "pos": "prep., adv.",
+    "entry": "along prep., adv.",
+    "old": "terus, : kira-kira, mendekati",
+    "new": "di sepanjang, terus, bersama"
+  },
+  {
+    "row": 938,
+    "level": "A2",
+    "word": "any more",
+    "pos": "adv.",
+    "entry": "any more adv.",
+    "old": "Any more",
+    "new": "lagi, tidak lagi"
+  },
+  {
+    "row": 941,
+    "level": "A2",
+    "word": "app",
+    "pos": "n.",
+    "entry": "app n.",
+    "old": "App",
+    "new": "aplikasi (perangkat lunak)"
+  },
+  {
+    "row": 969,
+    "level": "A2",
+    "word": "badly",
+    "pos": "adv.",
+    "entry": "badly adv.",
+    "old": "badly",
+    "new": "dengan buruk, parah, sangat"
+  },
+  {
+    "row": 972,
+    "level": "A2",
+    "word": "based",
+    "pos": "adj.",
+    "entry": "based adj.",
+    "old": "Based",
+    "new": "berdasarkan, berbasis"
+  },
+  {
+    "row": 974,
+    "level": "A2",
+    "word": "bean",
+    "pos": "n.",
+    "entry": "bean n.",
+    "old": "buncis, Sl.: kepala. -Sl.: memukul. b. sprouts tauge",
+    "new": "buncis, kacang polong, tauge"
+  },
+  {
+    "row": 975,
+    "level": "A2",
+    "word": "bear (animal)",
+    "pos": "n.",
+    "entry": "bear (animal) n.",
+    "old": "beruang.-kkt, memikul, tahan",
+    "new": "beruang"
+  },
+  {
+    "row": 977,
+    "level": "A2",
+    "word": "beef",
+    "pos": "n.",
+    "entry": "beef n.",
+    "old": "daging sapi, Sl, : keluhan.-Sl",
+    "new": "daging sapi, Sl, keluhan.-Sl"
+  },
+  {
+    "row": 980,
+    "level": "A2",
+    "word": "behaviour",
+    "pos": "n.",
+    "entry": "behaviour n.",
+    "old": "Behaviour",
+    "new": "perilaku, tingkah laku, budi pekerti"
+  },
+  {
+    "row": 996,
+    "level": "A2",
+    "word": "board",
+    "pos": "n.",
+    "entry": "board n.",
+    "old": "papan, papan tulis, makanan",
+    "new": "papan, dewan, pengurus"
+  },
+  {
+    "row": 998,
+    "level": "A2",
+    "word": "bone",
+    "pos": "n.",
+    "entry": "bone n.",
+    "old": "tulang, duri, -menulangi . -Sl.: mempelajari bone-dry kering sekali. b. meal tepung tulang",
+    "new": "tulang, duri (ikan)"
+  },
+  {
+    "row": 999,
+    "level": "A2",
+    "word": "book",
+    "pos": "v.",
+    "entry": "book v.",
+    "old": "buku, memesan",
+    "new": "memesan (tiket/tempat), membukukan"
+  },
+  {
+    "row": 1001,
+    "level": "A2",
+    "word": "boss",
+    "pos": "n.",
+    "entry": "boss n.",
+    "old": ": sep, kepala",
+    "new": "sep, kepala"
+  },
+  {
+    "row": 1002,
+    "level": "A2",
+    "word": "bottom",
+    "pos": "n., adj.",
+    "entry": "bottom n., adj.",
+    "old": "dasar, : pantat, tempat duduk",
+    "new": "dasar, pantat, tempat duduk"
+  },
+  {
+    "row": 1004,
+    "level": "A2",
+    "word": "brain",
+    "pos": "n.",
+    "entry": "brain n.",
+    "old": "otak. -brains, otak, pintar sekali. to beat o's brains memeras otak. to rack o's brains memutar otak. -Sl.: memukul",
+    "new": "otak, pikiran, akal budi"
+  },
+  {
+    "row": 1007,
+    "level": "A2",
+    "word": "brilliant",
+    "pos": "adj.",
+    "entry": "brilliant adj.",
+    "old": "Brilliant",
+    "new": "cemerlang, luar biasa, sangat cerdas"
+  },
+  {
+    "row": 1008,
+    "level": "A2",
+    "word": "broken",
+    "pos": "adj.",
+    "entry": "broken adj.",
+    "old": "Broken",
+    "new": "rusak, patah, hancur, pecah"
+  },
+  {
+    "row": 1010,
+    "level": "A2",
+    "word": "burn",
+    "pos": "v.",
+    "entry": "burn v.",
+    "old": "luka hangus/terbakar, luka  bakar, pembakaran",
+    "new": "luka hangus/terbakar, luka bakar, pembakaran"
+  },
+  {
+    "row": 1013,
+    "level": "A2",
+    "word": "camp",
+    "pos": "n., v.",
+    "entry": "camp n., v.",
+    "old": "Camp",
+    "new": "berkemah, perkemahan, kamp"
+  },
+  {
+    "row": 1014,
+    "level": "A2",
+    "word": "camping",
+    "pos": "n.",
+    "entry": "camping n.",
+    "old": "Camping",
+    "new": "berkemah, kamping"
+  },
+  {
+    "row": 1015,
+    "level": "A2",
+    "word": "can2",
+    "pos": "n.",
+    "entry": "can2 n.",
+    "old": "bisa, dapat, kaleng",
+    "new": "kaleng"
+  },
+  {
+    "row": 1047,
+    "level": "A2",
+    "word": "close2",
+    "pos": "adj.",
+    "entry": "close2 adj.",
+    "old": "menutup, dekat, akrab",
+    "new": "dekat, akrab, rapat"
+  },
+  {
+    "row": 1048,
+    "level": "A2",
+    "word": "closed",
+    "pos": "adj.",
+    "entry": "closed adj.",
+    "old": "Closed",
+    "new": "tutup, tertutup"
+  },
+  {
+    "row": 1051,
+    "level": "A2",
+    "word": "coach",
+    "pos": "n.",
+    "entry": "coach n.",
+    "old": "coach",
+    "new": "pelatih, bus wisata, gerbong"
+  },
+  {
+    "row": 1084,
+    "level": "A2",
+    "word": "crazy",
+    "pos": "adj.",
+    "entry": "crazy adj.",
+    "old": "gila, sinting, : gemar benar",
+    "new": "gila, sinting, gemar benar"
+  },
+  {
+    "row": 1087,
+    "level": "A2",
+    "word": "crime",
+    "pos": "n.",
+    "entry": "crime n.",
+    "old": "kejahatan, kesalahan, salah. crime-ridden penuh  kejahatan",
+    "new": "kejahatan, kesalahan, salah. crime-ridden penuh kejahatan"
+  },
+  {
+    "row": 1089,
+    "level": "A2",
+    "word": "cross",
+    "pos": "v., n.",
+    "entry": "cross v., n.",
+    "old": "Rel, : kayu salib, palang",
+    "new": "menyeberang, menyilang, salib"
+  },
+  {
+    "row": 1095,
+    "level": "A2",
+    "word": "cycle",
+    "pos": "n., v.",
+    "entry": "cycle n., v.",
+    "old": "cycle",
+    "new": "bersepeda, mengayuh sepeda, siklus"
+  },
+  {
+    "row": 1101,
+    "level": "A2",
+    "word": "deal",
+    "pos": "v.",
+    "entry": "deal v.",
+    "old": ": perjanjian, transaksi, : perlakuan",
+    "new": "perjanjian, transaksi, perlakuan"
+  },
+  {
+    "row": 1131,
+    "level": "A2",
+    "word": "divorced",
+    "pos": "adj.",
+    "entry": "divorced adj.",
+    "old": "Divorced",
+    "new": "bercerai, bercerai hidup"
+  },
+  {
+    "row": 1134,
+    "level": "A2",
+    "word": "download",
+    "pos": "v., n.",
+    "entry": "download v., n.",
+    "old": "Download",
+    "new": "mengunduh, berkas unduhan"
+  },
+  {
+    "row": 1140,
+    "level": "A2",
+    "word": "driving",
+    "pos": "n.",
+    "entry": "driving n.",
+    "old": "Driving",
+    "new": "mengemudi, berkendara"
+  },
+  {
+    "row": 1148,
+    "level": "A2",
+    "word": "effect",
+    "pos": "n.",
+    "entry": "effect n.",
+    "old": "pengaruh, efek, akibat. for e. untuk gagah-gagahan. -effects  harta benda",
+    "new": "pengaruh, efek, akibat. for e. untuk gagah-gagahan. -effects harta benda"
+  },
+  {
+    "row": 1153,
+    "level": "A2",
+    "word": "electronic",
+    "pos": "adj.",
+    "entry": "electronic adj.",
+    "old": "Electronic",
+    "new": "elektronik, secara elektronik"
+  },
+  {
+    "row": 1189,
+    "level": "A2",
+    "word": "fair",
+    "pos": "adj.",
+    "entry": "fair adj.",
+    "old": "pekan raya, pasar malam, kuning langsat",
+    "new": "adil, wajar, cukup baik"
+  },
+  {
+    "row": 1190,
+    "level": "A2",
+    "word": "fall",
+    "pos": "n.",
+    "entry": "fall n.",
+    "old": "jatuh, musim gugur",
+    "new": "musim gugur, kejatuhan, penurunan"
+  },
+  {
+    "row": 1207,
+    "level": "A2",
+    "word": "finger",
+    "pos": "n.",
+    "entry": "finger n.",
+    "old": "jari. : to have a f. in the pie ikut campur, turut mengambil bagian. -menyentuh. -fingering Mus.: main jari",
+    "new": "jari tangan, jari"
+  },
+  {
+    "row": 1214,
+    "level": "A2",
+    "word": "fix",
+    "pos": "v.",
+    "entry": "fix v.",
+    "old": "kesulitan, Nav.: penentuan posisi, Sl.: suapan",
+    "new": "memperbaiki, memasang, menentukan"
+  },
+  {
+    "row": 1217,
+    "level": "A2",
+    "word": "fly",
+    "pos": "n.",
+    "entry": "fly n.",
+    "old": "terbang, lalat",
+    "new": "lalat"
+  },
+  {
+    "row": 1228,
+    "level": "A2",
+    "word": "fresh",
+    "pos": "adj.",
+    "entry": "fresh adj.",
+    "old": "segar, hangat, : kasar",
+    "new": "segar, hangat, kasar"
+  },
+  {
+    "row": 1229,
+    "level": "A2",
+    "word": "fridge",
+    "pos": "n.",
+    "entry": "fridge n.",
+    "old": ": peti es",
+    "new": "peti es"
+  },
+  {
+    "row": 1237,
+    "level": "A2",
+    "word": "gas",
+    "pos": "n.",
+    "entry": "gas n.",
+    "old": "gas, : bensin, minyak gas",
+    "new": "gas, bensin, minyak gas"
+  },
+  {
+    "row": 1240,
+    "level": "A2",
+    "word": "gift",
+    "pos": "n.",
+    "entry": "gift n.",
+    "old": "Gift",
+    "new": "hadiah, kado, bakat, pemberian"
+  },
+  {
+    "row": 1247,
+    "level": "A2",
+    "word": "grass",
+    "pos": "n.",
+    "entry": "grass n.",
+    "old": "rumput. a) menghalaukan ternak ke padang rumput. b) mempensiunkan, memberhentikan, Sl.: mariyuana",
+    "new": "rumput, padang rumput"
+  },
+  {
+    "row": 1253,
+    "level": "A2",
+    "word": "guy",
+    "pos": "n.",
+    "entry": "guy n.",
+    "old": "Sl.: orang. good g. orang yang baik, orang yang jahat, Then.: peranan penjahat/bandit. g.-wire tali bubut",
+    "new": "pria, orang, teman"
+  },
+  {
+    "row": 1265,
+    "level": "A2",
+    "word": "hero",
+    "pos": "n.",
+    "entry": "hero n.",
+    "old": "pehlawan. hero-worship pemujaan  pahlawan",
+    "new": "pehlawan. hero-worship pemujaan pahlawan"
+  },
+  {
+    "row": 1274,
+    "level": "A2",
+    "word": "hockey",
+    "pos": "n.",
+    "entry": "hockey n.",
+    "old": "hockey",
+    "new": "hoki (cabang olahraga)"
+  },
+  {
+    "row": 1289,
+    "level": "A2",
+    "word": "included",
+    "pos": "adj.",
+    "entry": "included adj.",
+    "old": "Included",
+    "new": "termasuk, tercakup, sudah dihitung"
+  },
+  {
+    "row": 1294,
+    "level": "A2",
+    "word": "individual",
+    "pos": "n., adj.",
+    "entry": "individual n., adj.",
+    "old": "Individual",
+    "new": "individu, perseorangan, pribadi"
+  },
+  {
+    "row": 1299,
+    "level": "A2",
+    "word": "inside",
+    "pos": "prep., adv., n., adj.",
+    "entry": "inside prep., adv., n., adj.",
+    "old": "bagian  dalam. -: insides isi perut, jeroan. -dalam. -kedalam, didalam",
+    "new": "bagian dalam. -: insides isi perut, jeroan. -dalam. -kedalam, didalam"
+  },
+  {
+    "row": 1303,
+    "level": "A2",
+    "word": "instrument",
+    "pos": "n.",
+    "entry": "instrument n.",
+    "old": "instrumen, alat perkakas, Mus.: instrumen",
+    "new": "alat musik, instrumen, peralatan instrumen"
+  },
+  {
+    "row": 1311,
+    "level": "A2",
+    "word": "involve",
+    "pos": "v.",
+    "entry": "involve v.",
+    "old": "involve",
+    "new": "melibatkan, mengikutsertakan"
+  },
+  {
+    "row": 1315,
+    "level": "A2",
+    "word": "jazz",
+    "pos": "n.",
+    "entry": "jazz n.",
+    "old": "jazz. band orkes/band jazz, omong kosong. -Sl.: to up membuat meriah, meramaikan",
+    "new": "aliran musik jaz, jaz"
+  },
+  {
+    "row": 1316,
+    "level": "A2",
+    "word": "jewellery",
+    "pos": "n.",
+    "entry": "jewellery n.",
+    "old": "Jewellery",
+    "new": "perhiasan, perhiasan emas/permata"
+  },
+  {
+    "row": 1318,
+    "level": "A2",
+    "word": "journalist",
+    "pos": "n.",
+    "entry": "journalist n.",
+    "old": "Journalist",
+    "new": "wartawan, jurnalis"
+  },
+  {
+    "row": 1324,
+    "level": "A2",
+    "word": "knife",
+    "pos": "n.",
+    "entry": "knife n.",
+    "old": "pisau. to put the k. in s.o. and twist it menusukkan pisau pada  seseorang. lalu memutarkannya. : to go under the k. mengalami pembedahan, menikam, menghantam/mengalahkan. knife-edged tajam",
+    "new": "pisau. to put the k. in s.o. and twist it menusukkan pisau pada seseorang. lalu memutarkannya. : to go under the k. mengalami pembedahan, menikam, menghantam/mengalahkan. knife-edged tajam"
+  },
+  {
+    "row": 1325,
+    "level": "A2",
+    "word": "knock",
+    "pos": "v.",
+    "entry": "knock v.",
+    "old": "knock",
+    "new": "mengetuk, memukul, membentur"
+  },
+  {
+    "row": 1327,
+    "level": "A2",
+    "word": "lab",
+    "pos": "n.",
+    "entry": "lab n.",
+    "old": ": = LABORATORY",
+    "new": "= LABORATORY"
+  },
+  {
+    "row": 1333,
+    "level": "A2",
+    "word": "last1 (final)",
+    "pos": "adv., n.",
+    "entry": "last1 (final) adv., n.",
+    "old": "terakhir, lalu, bertahan",
+    "new": "bertahan, berlangsung"
+  },
+  {
+    "row": 1334,
+    "level": "A2",
+    "word": "last1 (taking time)",
+    "pos": "v.",
+    "entry": "last1 (taking time) v.",
+    "old": "terakhir, lalu, bertahan",
+    "new": "bertahan, berlangsung"
+  },
+  {
+    "row": 1340,
+    "level": "A2",
+    "word": "lead1",
+    "pos": "v.",
+    "entry": "lead1 v.",
+    "old": "timah. l. pencil potlot. lead-colored lebam, kelam. : lead-pipe cinch a) kepastian",
+    "new": "memimpin, memandu, mengarahkan"
+  },
+  {
+    "row": 1345,
+    "level": "A2",
+    "word": "lemon",
+    "pos": "n.",
+    "entry": "lemon n.",
+    "old": "jeruk limun. l. juice air jeruk sitrun, Sl.: brengsek, tidak memuaskan. lemon-colored berwarna kuning muda",
+    "new": "jeruk lemon, buah sitrun"
+  },
+  {
+    "row": 1349,
+    "level": "A2",
+    "word": "lifestyle",
+    "pos": "n.",
+    "entry": "lifestyle n.",
+    "old": "Lifestyle",
+    "new": "gaya hidup, pola hidup"
+  },
+  {
+    "row": 1351,
+    "level": "A2",
+    "word": "light (from the sun/a lamp)",
+    "pos": "v.",
+    "entry": "light (from the sun/a lamp) v.",
+    "old": "cahaya, lampu, terang, ringan",
+    "new": "menyalakan, menerangi"
+  },
+  {
+    "row": 1352,
+    "level": "A2",
+    "word": "light (not heavy)",
+    "pos": "adj.",
+    "entry": "light (not heavy) adj.",
+    "old": "cahaya, lampu, terang, ringan",
+    "new": "ringan, terang, muda (warna)"
+  },
+  {
+    "row": 1354,
+    "level": "A2",
+    "word": "link",
+    "pos": "n., v.",
+    "entry": "link n., v.",
+    "old": "mata rantai, hubungan. -links lapangan  golf. -menghubungkan. link-up hubungan",
+    "new": "mata rantai, hubungan. -links lapangan golf. -menghubungkan. link-up hubungan"
+  },
+  {
+    "row": 1359,
+    "level": "A2",
+    "word": "lorry",
+    "pos": "n.",
+    "entry": "lorry n.",
+    "old": "Lorry",
+    "new": "truk, truk pengangkut"
+  },
+  {
+    "row": 1361,
+    "level": "A2",
+    "word": "loud",
+    "pos": "adj., adv.",
+    "entry": "loud adj., adv.",
+    "old": "keras, menyolok, : bising. -loudly dengan keras-keras",
+    "new": "keras, menyolok, bising. -loudly dengan keras-keras"
+  },
+  {
+    "row": 1362,
+    "level": "A2",
+    "word": "loudly",
+    "pos": "adv.",
+    "entry": "loudly adv.",
+    "old": "secara keras, menyolok, : bising. -loudly dengan keras-keras, dengan keras, menyolok, : bising. -loudly dengan keras-keras",
+    "new": "secara keras, menyolok, bising. -loudly dengan keras-keras, dengan keras, menyolok, bising. -loudly dengan keras-keras"
+  },
+  {
+    "row": 1379,
+    "level": "A2",
+    "word": "may",
+    "pos": "modal v.",
+    "entry": "may modal v.",
+    "old": "Mei, boleh, mungkin",
+    "new": "boleh, mungkin, dapat"
+  },
+  {
+    "row": 1387,
+    "level": "A2",
+    "word": "middle",
+    "pos": "n., adj.",
+    "entry": "middle n., adj.",
+    "old": "pinggang, pertengahan. -setengah. middle-aged  setengah tua. middle-class kelas menengah. middle-of-the-road moderat",
+    "new": "pinggang, pertengahan. -setengah. middle-aged setengah tua. middle-class kelas menengah. middle-of-the-road moderat"
+  },
+  {
+    "row": 1426,
+    "level": "A2",
+    "word": "onto",
+    "pos": "prep.",
+    "entry": "onto prep.",
+    "old": "atas. to get o. a camel naik  unta",
+    "new": "atas. to get o. a camel naik unta"
+  },
+  {
+    "row": 1460,
+    "level": "A2",
+    "word": "petrol",
+    "pos": "n.",
+    "entry": "petrol n.",
+    "old": "Petrol",
+    "new": "bensin, bahan bakar minyak"
+  },
+  {
+    "row": 1472,
+    "level": "A2",
+    "word": "pleased",
+    "pos": "adj.",
+    "entry": "pleased adj.",
+    "old": "Pleased",
+    "new": "senang, gembira, puas"
+  },
+  {
+    "row": 1474,
+    "level": "A2",
+    "word": "polite",
+    "pos": "adj.",
+    "entry": "polite adj.",
+    "old": "sopan santun  terhadap). p. society kalangan yang halus budi bahasanya. -politely dengan sopan",
+    "new": "sopan santun terhadap). p. society kalangan yang halus budi bahasanya. -politely dengan sopan"
+  },
+  {
+    "row": 1476,
+    "level": "A2",
+    "word": "pop",
+    "pos": "n., adj.",
+    "entry": "pop n., adj.",
+    "old": "air soda, : ayah, pak",
+    "new": "air soda, ayah, pak"
+  },
+  {
+    "row": 1484,
+    "level": "A2",
+    "word": "present",
+    "pos": "v.",
+    "entry": "present v.",
+    "old": "hadir, masa kini, hadiah, menyajikan",
+    "new": "menyajikan, mempersembahkan, memperkenalkan"
+  },
+  {
+    "row": 1502,
+    "level": "A2",
+    "word": "pub",
+    "pos": "n.",
+    "entry": "pub n.",
+    "old": "Pub",
+    "new": "kedai minum, pub"
+  },
+  {
+    "row": 1504,
+    "level": "A2",
+    "word": "publish",
+    "pos": "v.",
+    "entry": "publish v.",
+    "old": "menerbitkan, mengumumkan . -terbit. -publishing penerbitan. p. house  penerbitan",
+    "new": "menerbitkan, mengumumkan . -terbit. -publishing penerbitan. p. house penerbitan"
+  },
+  {
+    "row": 1528,
+    "level": "A2",
+    "word": "record",
+    "pos": "n., v.",
+    "entry": "record n., v.",
+    "old": "Mus.: peringan hitam, catatan, rekor",
+    "new": "catatan, rekor, merekam, mencatat"
+  },
+  {
+    "row": 1529,
+    "level": "A2",
+    "word": "recording",
+    "pos": "n.",
+    "entry": "recording n.",
+    "old": "Mus.: peringan hitam, catatan, rekor",
+    "new": "rekaman, proses merekam"
+  },
+  {
+    "row": 1548,
+    "level": "A2",
+    "word": "rest (remaining part)",
+    "pos": "n.",
+    "entry": "rest (remaining part) n.",
+    "old": "istirahat, tidur, sisa",
+    "new": "sisa, bagian yang tersisa"
+  },
+  {
+    "row": 1549,
+    "level": "A2",
+    "word": "rest (sleep/relax)",
+    "pos": "n., v.",
+    "entry": "rest (sleep/relax) n., v.",
+    "old": "istirahat, tidur, sisa",
+    "new": "beristirahat, istirahat, bersantai"
+  },
+  {
+    "row": 1552,
+    "level": "A2",
+    "word": "ring1",
+    "pos": "n.",
+    "entry": "ring1 n.",
+    "old": "cincin, komplotan, jaringan",
+    "new": "cincin, arena, gelanggang"
+  },
+  {
+    "row": 1553,
+    "level": "A2",
+    "word": "ring2",
+    "pos": "v.",
+    "entry": "ring2 v.",
+    "old": "cincin, komplotan, jaringan",
+    "new": "cincin, arena, gelanggang"
+  },
+  {
+    "row": 1555,
+    "level": "A2",
+    "word": "rock (stone)",
+    "pos": "n.",
+    "entry": "rock (stone) n.",
+    "old": "batu, Sl.: Mus.: musik ngak - ngik-nguk, mengayun-ayun . rock-bottom paling rendah. rock-bound berbatu karang",
+    "new": "batu, batu karang"
+  },
+  {
+    "row": 1556,
+    "level": "A2",
+    "word": "rock (music)",
+    "pos": "n.",
+    "entry": "rock (music) n.",
+    "old": "batu, Sl.: Mus.: musik ngak - ngik-nguk, mengayun-ayun . rock-bottom paling rendah. rock-bound berbatu karang",
+    "new": "musik rok"
+  },
+  {
+    "row": 1557,
+    "level": "A2",
+    "word": "role",
+    "pos": "n.",
+    "entry": "role n.",
+    "old": "Role",
+    "new": "peran, fungsi, lakon"
+  },
+  {
+    "row": 1565,
+    "level": "A2",
+    "word": "running",
+    "pos": "n.",
+    "entry": "running n.",
+    "old": "Running",
+    "new": "lari, berlari, olahraga lari"
+  },
+  {
+    "row": 1578,
+    "level": "A2",
+    "word": "score",
+    "pos": "v., n.",
+    "entry": "score v., n.",
+    "old": "skor, angka, Mus.: lembaran musik",
+    "new": "skor, angka nilai, mencetak skor"
+  },
+  {
+    "row": 1583,
+    "level": "A2",
+    "word": "second1 (next after the first)",
+    "pos": "adv.",
+    "entry": "second1 (next after the first) adv.",
+    "old": "kedua, detik",
+    "new": "kedua, di tempat kedua"
+  },
+  {
+    "row": 1586,
+    "level": "A2",
+    "word": "secretary",
+    "pos": "n.",
+    "entry": "secretary n.",
+    "old": "secretary",
+    "new": "sekretaris"
+  },
+  {
+    "row": 1605,
+    "level": "A2",
+    "word": "silver",
+    "pos": "n., adj.",
+    "entry": "silver n., adj.",
+    "old": "perak, alt-alt  dari perak, sendok-garpu. silver-plated berlapis perak. -silver-tongued pasih bicara",
+    "new": "perak, alt-alt dari perak, sendok-garpu. silver-plated berlapis perak. -silver-tongued pasih bicara"
+  },
+  {
+    "row": 1609,
+    "level": "A2",
+    "word": "single",
+    "pos": "adj., n.",
+    "entry": "single adj., n.",
+    "old": "singles Tenn.: pertandingan  tunggal, bujang, tak beristeri/bersuami",
+    "new": "singles Tenn.: pertandingan tunggal, bujang, tak beristeri/bersuami"
+  },
+  {
+    "row": 1619,
+    "level": "A2",
+    "word": "smartphone",
+    "pos": "n.",
+    "entry": "smartphone n.",
+    "old": "Smartphone",
+    "new": "ponsel pintar, telepon pintar"
+  },
+  {
+    "row": 1639,
+    "level": "A2",
+    "word": "speed",
+    "pos": "n.",
+    "entry": "speed n.",
+    "old": "kecepatan, persneling, Sl.: amphetamine",
+    "new": "kecepatan, laju"
+  },
+  {
+    "row": 1642,
+    "level": "A2",
+    "word": "square",
+    "pos": "adj., n.",
+    "entry": "square adj., n.",
+    "old": "kwadrat, persegi, Sl.: seorang yang konvensionil",
+    "new": "persegi, kuadrat, bujur sangkar"
+  },
+  {
+    "row": 1646,
+    "level": "A2",
+    "word": "star",
+    "pos": "v.",
+    "entry": "star v.",
+    "old": "bintang",
+    "new": "membintangi, menjadi bintang utama"
+  },
+  {
+    "row": 1650,
+    "level": "A2",
+    "word": "steal",
+    "pos": "v.",
+    "entry": "steal v.",
+    "old": ": barang yang harganya murah sekali, mencuri, mencoleng",
+    "new": "barang yang harganya murah sekali, mencuri, mencoleng"
+  },
+  {
+    "row": 1656,
+    "level": "A2",
+    "word": "straight",
+    "pos": "adv., adj.",
+    "entry": "straight adv., adj.",
+    "old": "lurus, : sebenar-benarnya, jujur",
+    "new": "lurus, langsung, jujur"
+  },
+  {
+    "row": 1686,
+    "level": "A2",
+    "word": "teenage",
+    "pos": "adj.",
+    "entry": "teenage adj.",
+    "old": "Teenage",
+    "new": "remaja, usia belasan"
+  },
+  {
+    "row": 1690,
+    "level": "A2",
+    "word": "themselves",
+    "pos": "pron.",
+    "entry": "themselves pron.",
+    "old": "Themselves",
+    "new": "diri mereka sendiri"
+  },
+  {
+    "row": 1706,
+    "level": "A2",
+    "word": "towards",
+    "pos": "prep.",
+    "entry": "towards prep.",
+    "old": "Towards",
+    "new": "menuju, ke arah, terhadap"
+  },
+  {
+    "row": 1713,
+    "level": "A2",
+    "word": "train",
+    "pos": "v.",
+    "entry": "train v.",
+    "old": "kereta api, melatih",
+    "new": "melatih, berlatih"
+  },
+  {
+    "row": 1717,
+    "level": "A2",
+    "word": "traveller",
+    "pos": "n.",
+    "entry": "traveller n.",
+    "old": "Traveller",
+    "new": "pelancong, pelancong wisata, musafir"
+  },
+  {
+    "row": 1732,
+    "level": "A2",
+    "word": "used to",
+    "pos": "modal v.",
+    "entry": "used to modal v.",
+    "old": "Used to",
+    "new": "dulu biasa, terbiasa, pernah"
+  },
+  {
+    "row": 1746,
+    "level": "A2",
+    "word": "wave",
+    "pos": "n.",
+    "entry": "wave n.",
+    "old": "gelombang. radio w. gelombang radio, keriting, ikal",
+    "new": "gelombang, ombak, lambaian"
+  },
+  {
+    "row": 1749,
+    "level": "A2",
+    "word": "wedding",
+    "pos": "n.",
+    "entry": "wedding n.",
+    "old": "Wedding",
+    "new": "pernikahan, pesta pernikahan"
+  },
+  {
+    "row": 1769,
+    "level": "A2",
+    "word": "wow",
+    "pos": "exclam.",
+    "entry": "wow exclam.",
+    "old": "Sl.: sesuatu yang hebat sekali. -Sl.: membuat kagum. kseru",
+    "new": "wah! (ungkapan kagum), memukau"
+  },
+  {
+    "row": 1778,
+    "level": "B1",
+    "word": "achievement",
+    "pos": "n.",
+    "entry": "achievement n.",
+    "old": "Achievement",
+    "new": "prestasi, pencapaian, keberhasilan"
+  },
+  {
+    "row": 1801,
+    "level": "B1",
+    "word": "analyse",
+    "pos": "v.",
+    "entry": "analyse v.",
+    "old": "Analyse",
+    "new": "menganalisis, mengkaji, menelaah"
+  },
+  {
+    "row": 1807,
+    "level": "B1",
+    "word": "annoying",
+    "pos": "adj.",
+    "entry": "annoying adj.",
+    "old": "annoying",
+    "new": "menjengkelkan, menyebalkan, mengganggu"
+  },
+  {
+    "row": 1827,
+    "level": "B1",
+    "word": "backwards",
+    "pos": "adv.",
+    "entry": "backwards adv.",
+    "old": "Backwards",
+    "new": "ke belakang, mundur, terbalik"
+  },
+  {
+    "row": 1831,
+    "level": "B1",
+    "word": "bank (river)",
+    "pos": "n.",
+    "entry": "bank (river) n.",
+    "old": "bank, tepi sungai",
+    "new": "tepi sungai, bantaran sungai"
+  },
+  {
+    "row": 1846,
+    "level": "B1",
+    "word": "board",
+    "pos": "v.",
+    "entry": "board v.",
+    "old": "papan, papan tulis, makanan",
+    "new": "menaiki (pesawat/kapal/kereta), menumpang"
+  },
+  {
+    "row": 1847,
+    "level": "B1",
+    "word": "bomb",
+    "pos": "n., v.",
+    "entry": "bomb n., v.",
+    "old": "bom. -membom . -Sl.: gagal. -bombed dibom. a badly b. city kota yang dibom  hebat",
+    "new": "bom, meledakkan bom, membom"
+  },
+  {
+    "row": 1861,
+    "level": "B1",
+    "word": "campaign",
+    "pos": "n., v.",
+    "entry": "campaign n., v.",
+    "old": "Campaign",
+    "new": "kampanye, mengadakan kampanye"
+  },
+  {
+    "row": 1871,
+    "level": "B1",
+    "word": "centre",
+    "pos": "v.",
+    "entry": "centre v.",
+    "old": "= CENTER",
+    "new": "memusatkan, menitikberatkan"
+  },
+  {
+    "row": 1876,
+    "level": "B1",
+    "word": "channel",
+    "pos": "n.",
+    "entry": "channel n.",
+    "old": "terusan. deep c. terusan yang dalam, saluran. c. of communication  saluran komunikasi",
+    "new": "terusan. deep c. terusan yang dalam, saluran. c. of communication saluran komunikasi"
+  },
+  {
+    "row": 1886,
+    "level": "B1",
+    "word": "clause",
+    "pos": "n.",
+    "entry": "clause n.",
+    "old": "Gram.:  kalimat, ketentuan, klausule. c. in a contract ketentuan didalam perjanjian",
+    "new": "Gram.: kalimat, ketentuan, klausule. c. in a contract ketentuan didalam perjanjian"
+  },
+  {
+    "row": 1891,
+    "level": "B1",
+    "word": "close2",
+    "pos": "adv.",
+    "entry": "close2 adv.",
+    "old": "menutup, dekat, akrab",
+    "new": "dekat, berdekatan"
+  },
+  {
+    "row": 1894,
+    "level": "B1",
+    "word": "coach",
+    "pos": "v.",
+    "entry": "coach v.",
+    "old": "coach",
+    "new": "melatih, membina"
+  },
+  {
+    "row": 1895,
+    "level": "B1",
+    "word": "coal",
+    "pos": "n.",
+    "entry": "coal n.",
+    "old": "batu bara. -mengisi batu bara. coal- black hitam pekat. c. scuttle ember  batu bara. c. tar belangkin, pelangkin",
+    "new": "batu bara. -mengisi batu bara. coal- black hitam pekat. c. scuttle ember batu bara. c. tar belangkin, pelangkin"
+  },
+  {
+    "row": 1898,
+    "level": "B1",
+    "word": "coloured",
+    "pos": "adj.",
+    "entry": "coloured adj.",
+    "old": "Coloured",
+    "new": "berwarna, memiliki warna"
+  },
+  {
+    "row": 1915,
+    "level": "B1",
+    "word": "confused",
+    "pos": "adj.",
+    "entry": "confused adj.",
+    "old": "Confused",
+    "new": "bingung, rancu, keliru"
+  },
+  {
+    "row": 1931,
+    "level": "B1",
+    "word": "cotton",
+    "pos": "n.",
+    "entry": "cotton n.",
+    "old": "kapas, katun. c. flannel katun halus. -to c.  Sl.: menyukai. c. candy harum manis",
+    "new": "kapas, katun, kain katun"
+  },
+  {
+    "row": 1949,
+    "level": "B1",
+    "word": "deal",
+    "pos": "n.",
+    "entry": "deal n.",
+    "old": ": perjanjian, transaksi, : perlakuan",
+    "new": "perjanjian, transaksi, perlakuan"
+  },
+  {
+    "row": 1961,
+    "level": "B1",
+    "word": "determined",
+    "pos": "adj.",
+    "entry": "determined adj.",
+    "old": "Determined",
+    "new": "bertekad bulat, gigih, teguh"
+  },
+  {
+    "row": 1968,
+    "level": "B1",
+    "word": "dirt",
+    "pos": "n.",
+    "entry": "dirt n.",
+    "old": "kotoran, Sl.: desas-desus, tanah",
+    "new": "kotoran, debu, noda"
+  },
+  {
+    "row": 1993,
+    "level": "B1",
+    "word": "educated",
+    "pos": "adj.",
+    "entry": "educated adj.",
+    "old": "Educated",
+    "new": "berpendidikan, terpelajar, berilmu"
+  },
+  {
+    "row": 2002,
+    "level": "B1",
+    "word": "emergency",
+    "pos": "n.",
+    "entry": "emergency n.",
+    "old": "keadaan darurat. in  an e. dalam keadaan darurat. e. room tempat memberi pertolongan pertama, kamar darurat",
+    "new": "keadaan darurat. in an e. dalam keadaan darurat. e. room tempat memberi pertolongan pertama, kamar darurat"
+  },
+  {
+    "row": 2008,
+    "level": "B1",
+    "word": "engaged",
+    "pos": "adj.",
+    "entry": "engaged adj.",
+    "old": "Engaged",
+    "new": "bertunangan, sibuk, terpakai"
+  },
+  {
+    "row": 2030,
+    "level": "B1",
+    "word": "experienced",
+    "pos": "adj.",
+    "entry": "experienced adj.",
+    "old": "Experienced",
+    "new": "berpengalaman, berjam terbang"
+  },
+  {
+    "row": 2042,
+    "level": "B1",
+    "word": "fascinating",
+    "pos": "adj.",
+    "entry": "fascinating adj.",
+    "old": "Fascinating",
+    "new": "mempesona, mengagumkan, sangat menarik"
+  },
+  {
+    "row": 2045,
+    "level": "B1",
+    "word": "favour",
+    "pos": "n.",
+    "entry": "favour n.",
+    "old": "Favour",
+    "new": "kebaikan, bantuan, dukungan, kemurahan hati"
+  },
+  {
+    "row": 2054,
+    "level": "B1",
+    "word": "fixed",
+    "pos": "adj.",
+    "entry": "fixed adj.",
+    "old": "terkesulitan, Nav.: penentuan posisi, Sl.: suapan, dikesulitan, Nav.: penentuan posisi, Sl.: suapan",
+    "new": "tetap, baku, sudah diperbaiki"
+  },
+  {
+    "row": 2059,
+    "level": "B1",
+    "word": "fold",
+    "pos": "v.",
+    "entry": "fold v.",
+    "old": "lipatan, melipat, membungkus. -kki",
+    "new": "melipat, merangkul, membungkus"
+  },
+  {
+    "row": 2075,
+    "level": "B1",
+    "word": "fur",
+    "pos": "n.",
+    "entry": "fur n.",
+    "old": "bulu binatang. -firs pakaian  bulu binatang. fur-bearing yang mempunyai kulit yang berbulu. f. bearing animal binatang yang kulitnya berbulu",
+    "new": "bulu binatang. -firs pakaian bulu binatang. fur-bearing yang mempunyai kulit yang berbulu. f. bearing animal binatang yang kulitnya berbulu"
+  },
+  {
+    "row": 2078,
+    "level": "B1",
+    "word": "gather",
+    "pos": "v.",
+    "entry": "gather v.",
+    "old": "gather",
+    "new": "mengumpulkan, berkumpul, menghimpun"
+  },
+  {
+    "row": 2086,
+    "level": "B1",
+    "word": "glad",
+    "pos": "adj.",
+    "entry": "glad adj.",
+    "old": ": = GLADIOLUS. -senang, gembira",
+    "new": "= GLADIOLUS. -senang, gembira"
+  },
+  {
+    "row": 2090,
+    "level": "B1",
+    "word": "goods",
+    "pos": "n.",
+    "entry": "goods n.",
+    "old": "Goods",
+    "new": "barang, barang dagangan, komoditas"
+  },
+  {
+    "row": 2092,
+    "level": "B1",
+    "word": "graduate",
+    "pos": "n., v.",
+    "entry": "graduate n., v.",
+    "old": "tamatan, lulusan. -tamat sekolah. to g. from mendapat gelar  dari. g. studies pelajaran tingkat sarjana. -graduated yang dibagi dalam kelas-kelas. g. flask botol yang memakai tanda ukuran",
+    "new": "tamatan, lulusan. -tamat sekolah. to g. from mendapat gelar dari. g. studies pelajaran tingkat sarjana. -graduated yang dibagi dalam kelas-kelas. g. flask botol yang memakai tanda ukuran"
+  },
+  {
+    "row": 2121,
+    "level": "B1",
+    "word": "ignore",
+    "pos": "v.",
+    "entry": "ignore v.",
+    "old": "mengabaikan, tak mengindahkan, menganggap  tidak ada",
+    "new": "mengabaikan, tak mengindahkan, menganggap tidak ada"
+  },
+  {
+    "row": 2132,
+    "level": "B1",
+    "word": "incredibly",
+    "pos": "adv.",
+    "entry": "incredibly adv.",
+    "old": "Incredibly",
+    "new": "luar biasa, sangat, tak disangka"
+  },
+  {
+    "row": 2137,
+    "level": "B1",
+    "word": "indoors",
+    "pos": "adv.",
+    "entry": "indoors adv.",
+    "old": "Indoors",
+    "new": "di dalam ruangan, ke dalam rumah"
+  },
+  {
+    "row": 2141,
+    "level": "B1",
+    "word": "injured",
+    "pos": "adj.",
+    "entry": "injured adj.",
+    "old": "Injured",
+    "new": "terluka, cedera"
+  },
+  {
+    "row": 2148,
+    "level": "B1",
+    "word": "involved",
+    "pos": "adj.",
+    "entry": "involved adj.",
+    "old": "Involved",
+    "new": "terlibat, turut serta, rumit"
+  },
+  {
+    "row": 2159,
+    "level": "B1",
+    "word": "kind (caring)",
+    "pos": "adj.",
+    "entry": "kind (caring) adj.",
+    "old": "jenis, macam, baik hati",
+    "new": "baik hati, ramah, murah hati"
+  },
+  {
+    "row": 2161,
+    "level": "B1",
+    "word": "knock",
+    "pos": "n.",
+    "entry": "knock n.",
+    "old": "knock",
+    "new": "ketukan, pukulan, bunyi ketukan"
+  },
+  {
+    "row": 2165,
+    "level": "B1",
+    "word": "latest",
+    "pos": "adj.",
+    "entry": "latest adj.",
+    "old": "Latest",
+    "new": "terbaru, paling mutakhir, terkini"
+  },
+  {
+    "row": 2167,
+    "level": "B1",
+    "word": "layer",
+    "pos": "n.",
+    "entry": "layer n.",
+    "old": "lapis.two layers of paint dua lapis cat, Poul.:  babon, petelur",
+    "new": "lapis.two layers of paint dua lapis cat, Poul.: babon, petelur"
+  },
+  {
+    "row": 2168,
+    "level": "B1",
+    "word": "lead1",
+    "pos": "n.",
+    "entry": "lead1 n.",
+    "old": "timah. l. pencil potlot. lead-colored lebam, kelam. : lead-pipe cinch a) kepastian",
+    "new": "pemimpin, keunggulan, petunjuk"
+  },
+  {
+    "row": 2169,
+    "level": "B1",
+    "word": "leading",
+    "pos": "adj.",
+    "entry": "leading adj.",
+    "old": "timah. l. pencil potlot. lead-colored lebam, kelam. : lead-pipe cinch a) kepastian",
+    "new": "terkemuka, terdepan, utama"
+  },
+  {
+    "row": 2171,
+    "level": "B1",
+    "word": "leather",
+    "pos": "n.",
+    "entry": "leather n.",
+    "old": "kulit. l. goods barang-barang  kulit. l. jocket jaket kulit",
+    "new": "kulit. l. goods barang-barang kulit. l. jocket jaket kulit"
+  },
+  {
+    "row": 2183,
+    "level": "B1",
+    "word": "living",
+    "pos": "adj., n.",
+    "entry": "living adj., n.",
+    "old": "Living",
+    "new": "hidup, kehidupan, biaya hidup, nafkah"
+  },
+  {
+    "row": 2186,
+    "level": "B1",
+    "word": "located",
+    "pos": "adj.",
+    "entry": "located adj.",
+    "old": "Located",
+    "new": "terletak, berlokasi, berada"
+  },
+  {
+    "row": 2194,
+    "level": "B1",
+    "word": "mall",
+    "pos": "n.",
+    "entry": "mall n.",
+    "old": "Mall",
+    "new": "pusat perbelanjaan, mal"
+  },
+  {
+    "row": 2215,
+    "level": "B1",
+    "word": "mystery",
+    "pos": "n.",
+    "entry": "mystery n.",
+    "old": "kegaiban, misteri, : buku penuh sensasi",
+    "new": "kegaiban, misteri, buku penuh sensasi"
+  },
+  {
+    "row": 2216,
+    "level": "B1",
+    "word": "nail",
+    "pos": "n.",
+    "entry": "nail n.",
+    "old": "paku. to hit the n. on the head tepat. to pay on the n. membayar kontan, Anat.: kuku. n. clippers gunting kuku, memaku",
+    "new": "paku. to hit the n. on the head tepat. to pay on the n. membayar kontan, kuku. n. clippers gunting kuku, memaku"
+  },
+  {
+    "row": 2221,
+    "level": "B1",
+    "word": "necessarily",
+    "pos": "adv.",
+    "entry": "necessarily adv.",
+    "old": "Necessarily",
+    "new": "pasti, selalu, niscaya, harus"
+  },
+  {
+    "row": 2230,
+    "level": "B1",
+    "word": "northern",
+    "pos": "adj.",
+    "entry": "northern adj.",
+    "old": "utara, yang di utara. n. lights cahaya  utara",
+    "new": "utara, yang di utara. n. lights cahaya utara"
+  },
+  {
+    "row": 2243,
+    "level": "B1",
+    "word": "organized",
+    "pos": "adj.",
+    "entry": "organized adj.",
+    "old": "Organized",
+    "new": "teratur, terorganisir, rapi"
+  },
+  {
+    "row": 2247,
+    "level": "B1",
+    "word": "ought to",
+    "pos": "modal v.",
+    "entry": "ought to modal v.",
+    "old": "Ought to",
+    "new": "seharusnya, semestinya, patutnya"
+  },
+  {
+    "row": 2255,
+    "level": "B1",
+    "word": "pan",
+    "pos": "n.",
+    "entry": "pan n.",
+    "old": "panci, : mencela dengan keras, mendulang",
+    "new": "panci, mencela dengan keras, mendulang"
+  },
+  {
+    "row": 2263,
+    "level": "B1",
+    "word": "percentage",
+    "pos": "n.",
+    "entry": "percentage n.",
+    "old": "persentase, per seratus, Sl.: keuntungan",
+    "new": "persentase, kadar persen"
+  },
+  {
+    "row": 2273,
+    "level": "B1",
+    "word": "planning",
+    "pos": "n.",
+    "entry": "planning n.",
+    "old": "Planning",
+    "new": "perencanaan, rencana kerja"
+  },
+  {
+    "row": 2289,
+    "level": "B1",
+    "word": "port",
+    "pos": "n.",
+    "entry": "port n.",
+    "old": "pelabuhan. river p. bandar/pelabuhan, Nav.: sisi kiri, anggur port. -kiri. on the p. side di sisi kiri",
+    "new": "pelabuhan. river p. bandar/pelabuhan, sisi kiri, anggur port. -kiri. on the p. side di sisi kiri"
+  },
+  {
+    "row": 2291,
+    "level": "B1",
+    "word": "possibly",
+    "pos": "adv.",
+    "entry": "possibly adv.",
+    "old": "Possibly",
+    "new": "mungkin, barangkali, bisa jadi"
+  },
+  {
+    "row": 2301,
+    "level": "B1",
+    "word": "prepared",
+    "pos": "adj.",
+    "entry": "prepared adj.",
+    "old": "Prepared",
+    "new": "siap, bersiap, bersedia"
+  },
+  {
+    "row": 2339,
+    "level": "B1",
+    "word": "racing",
+    "pos": "n.",
+    "entry": "racing n.",
+    "old": "Racing",
+    "new": "balapan, perlombaan balap"
+  },
+  {
+    "row": 2352,
+    "level": "B1",
+    "word": "related",
+    "pos": "adj.",
+    "entry": "related adj.",
+    "old": "Related",
+    "new": "terkait, berhubungan, bertalian, bersanak"
+  },
+  {
+    "row": 2378,
+    "level": "B1",
+    "word": "retired",
+    "pos": "adj.",
+    "entry": "retired adj.",
+    "old": "Retired",
+    "new": "pensiun, purnatugas"
+  },
+  {
+    "row": 2380,
+    "level": "B1",
+    "word": "ring2",
+    "pos": "n.",
+    "entry": "ring2 n.",
+    "old": "cincin, komplotan, jaringan",
+    "new": "cincin, arena, gelanggang"
+  },
+  {
+    "row": 2390,
+    "level": "B1",
+    "word": "rugby",
+    "pos": "n.",
+    "entry": "rugby n.",
+    "old": "Rugby",
+    "new": "rugbi (olahraga bola lonjong)"
+  },
+  {
+    "row": 2396,
+    "level": "B1",
+    "word": "sand",
+    "pos": "n.",
+    "entry": "sand n.",
+    "old": "pasir. -sands. pantai pasir, menutupi  dengan pasir, mengamril",
+    "new": "pasir. -sands. pantai pasir, menutupi dengan pasir, mengamril"
+  },
+  {
+    "row": 2415,
+    "level": "B1",
+    "word": "sharp",
+    "pos": "adj.",
+    "entry": "sharp adj.",
+    "old": "Mus.: kenaikan/kelebihan tinggi nada setengah tajam. sharp-eyed, tajam penglihatan, cerdik. sharp-pointed",
+    "new": "tajam, runcing, cerdas, tajam pikiran"
+  },
+  {
+    "row": 2442,
+    "level": "B1",
+    "word": "specifically",
+    "pos": "adv.",
+    "entry": "specifically adv.",
+    "old": "Specifically",
+    "new": "secara khusus, spesifik, persisnya"
+  },
+  {
+    "row": 2446,
+    "level": "B1",
+    "word": "spoken",
+    "pos": "adj.",
+    "entry": "spoken adj.",
+    "old": "Spoken",
+    "new": "lisan, terucap, diucapkan"
+  },
+  {
+    "row": 2449,
+    "level": "B1",
+    "word": "spring",
+    "pos": "v.",
+    "entry": "spring v.",
+    "old": "musim semi, mata air, pegas",
+    "new": "melompat, memantul, muncul tiba-tiba"
+  },
+  {
+    "row": 2456,
+    "level": "B1",
+    "word": "stick (push into/attach)",
+    "pos": "v.",
+    "entry": "stick (push into/attach) v.",
+    "old": "tongkat, batang, potongan",
+    "new": "menempelkan, melekat, menusukkan"
+  },
+  {
+    "row": 2457,
+    "level": "B1",
+    "word": "stick (piece of wood)",
+    "pos": "n.",
+    "entry": "stick (piece of wood) n.",
+    "old": "tongkat, batang, potongan",
+    "new": "tongkat, batang, ranting"
+  },
+  {
+    "row": 2468,
+    "level": "B1",
+    "word": "sudden",
+    "pos": "adj.",
+    "entry": "sudden adj.",
+    "old": "mendadak, tiba-tiba. his s. death dengan tiba-tiba. -suddenly  tiba-tiba",
+    "new": "mendadak, tiba-tiba. his s. death dengan tiba-tiba. -suddenly tiba-tiba"
+  },
+  {
+    "row": 2476,
+    "level": "B1",
+    "word": "surely",
+    "pos": "adv.",
+    "entry": "surely adv.",
+    "old": "secara for s.  pasti, pasti, yakin, dengan for s.  pasti, pasti, yakin",
+    "new": "secara for s. pasti, pasti, yakin, dengan for s. pasti, pasti, yakin"
+  },
+  {
+    "row": 2500,
+    "level": "B1",
+    "word": "tight",
+    "pos": "adj.",
+    "entry": "tight adj.",
+    "old": "tights celana  ketat, sempit, kikir",
+    "new": "tights celana ketat, sempit, kikir"
+  },
+  {
+    "row": 2523,
+    "level": "B1",
+    "word": "tyre",
+    "pos": "n.",
+    "entry": "tyre n.",
+    "old": "Tyre",
+    "new": "ban roda, ban mobil/motor"
+  },
+  {
+    "row": 2538,
+    "level": "B1",
+    "word": "upon",
+    "pos": "prep.",
+    "entry": "upon prep.",
+    "old": "= ON",
+    "new": "di atas, saat, segera setelah"
+  },
+  {
+    "row": 2557,
+    "level": "B1",
+    "word": "wave",
+    "pos": "v.",
+    "entry": "wave v.",
+    "old": "gelombang. radio w. gelombang radio, keriting, ikal",
+    "new": "melambai, mengibarkan"
+  },
+  {
+    "row": 2561,
+    "level": "B1",
+    "word": "whatever",
+    "pos": "det./pron.",
+    "entry": "whatever det./pron.",
+    "old": "apa saja, apapun, : apakah gerangan",
+    "new": "apa saja, apapun, apakah gerangan"
+  },
+  {
+    "row": 2566,
+    "level": "B1",
+    "word": "will",
+    "pos": "n.",
+    "entry": "will n.",
+    "old": "akan, kemauan, surat wasiat",
+    "new": "kemauan, tekad, surat wasiat"
+  },
+  {
+    "row": 2570,
+    "level": "B1",
+    "word": "wonder",
+    "pos": "v., n.",
+    "entry": "wonder v., n.",
+    "old": "wonder",
+    "new": "bertanya-tanya, kagum, heran, keajaiban"
+  },
+  {
+    "row": 2572,
+    "level": "B1",
+    "word": "worldwide",
+    "pos": "adj., adv.",
+    "entry": "worldwide adj., adv.",
+    "old": "Worldwide",
+    "new": "seluruh dunia, mendunia"
+  },
+  {
+    "row": 2610,
+    "level": "B2",
+    "word": "angle",
+    "pos": "n.",
+    "entry": "angle n.",
+    "old": "sudut, segi, : segi",
+    "new": "sudut, segi, segi"
+  },
+  {
+    "row": 2623,
+    "level": "B2",
+    "word": "arms",
+    "pos": "n.",
+    "entry": "arms n.",
+    "old": "Arms",
+    "new": "senjata, persenjataan (militer)"
+  },
+  {
+    "row": 2631,
+    "level": "B2",
+    "word": "associated",
+    "pos": "adj.",
+    "entry": "associated adj.",
+    "old": "Associated",
+    "new": "terkait, terhubung, berhubungan"
+  },
+  {
+    "row": 2639,
+    "level": "B2",
+    "word": "basically",
+    "pos": "adv.",
+    "entry": "basically adv.",
+    "old": "Basically",
+    "new": "pada dasarnya, pokoknya, intinya"
+  },
+  {
+    "row": 2641,
+    "level": "B2",
+    "word": "bear (deal with)",
+    "pos": "v.",
+    "entry": "bear (deal with) v.",
+    "old": "beruang.-kkt, memikul, tahan",
+    "new": "menahan, menanggung, memikul"
+  },
+  {
+    "row": 2644,
+    "level": "B2",
+    "word": "being",
+    "pos": "n.",
+    "entry": "being n.",
+    "old": "am  ; are  ; is . was  ; were  been",
+    "new": "am, are, is . was, were been"
+  },
+  {
+    "row": 2656,
+    "level": "B2",
+    "word": "broad",
+    "pos": "adj.",
+    "entry": "broad adj.",
+    "old": "Sl.: gadis, wanita, lebar",
+    "new": "luas, lebar, lapang"
+  },
+  {
+    "row": 2661,
+    "level": "B2",
+    "word": "burn",
+    "pos": "n.",
+    "entry": "burn n.",
+    "old": "luka hangus/terbakar, luka  bakar, pembakaran",
+    "new": "luka hangus/terbakar, luka bakar, pembakaran"
+  },
+  {
+    "row": 2662,
+    "level": "B2",
+    "word": "bush",
+    "pos": "n.",
+    "entry": "bush n.",
+    "old": "semak-semak. -Sl.: menghabiskan tenaga. -bushed Sl.: lelah",
+    "new": "semak-semak, belukar"
+  },
+  {
+    "row": 2667,
+    "level": "B2",
+    "word": "cancer",
+    "pos": "n.",
+    "entry": "cancer n.",
+    "old": "kanker, Zod.: C.  Sartan, Karkata",
+    "new": "kanker, Zod.: C. Sartan, Karkata"
+  },
+  {
+    "row": 2671,
+    "level": "B2",
+    "word": "cast",
+    "pos": "n., v.",
+    "entry": "cast n., v.",
+    "old": "pembalut  gigi, Thea.: para pelaku, cetakan",
+    "new": "pembalut gigi, Thea.: para pelaku, cetakan"
+  },
+  {
+    "row": 2681,
+    "level": "B2",
+    "word": "circumstance",
+    "pos": "n.",
+    "entry": "circumstance n.",
+    "old": "keadaan  He's in good circumstances Keadaannya baik. under no circumstance bagaimanapun juga . under the circumstances dalam keadaan itu",
+    "new": "keadaan He's in good circumstances Keadaannya baik. under no circumstance bagaimanapun juga . under the circumstances dalam keadaan itu"
+  },
+  {
+    "row": 2686,
+    "level": "B2",
+    "word": "close1",
+    "pos": "n.",
+    "entry": "close1 n.",
+    "old": "menutup, dekat, akrab",
+    "new": "penutupan, akhir"
+  },
+  {
+    "row": 2697,
+    "level": "B2",
+    "word": "complicated",
+    "pos": "adj.",
+    "entry": "complicated adj.",
+    "old": "Complicated",
+    "new": "rumit, kompleks, berbelit-belit"
+  },
+  {
+    "row": 2704,
+    "level": "B2",
+    "word": "confidence",
+    "pos": "n.",
+    "entry": "confidence n.",
+    "old": "kepercayaan. in  c. sangat rahasia, dengan rahasia",
+    "new": "kepercayaan. in c. sangat rahasia, dengan rahasia"
+  },
+  {
+    "row": 2706,
+    "level": "B2",
+    "word": "confusing",
+    "pos": "adj.",
+    "entry": "confusing adj.",
+    "old": "Confusing",
+    "new": "membingungkan, memusingkan"
+  },
+  {
+    "row": 2721,
+    "level": "B2",
+    "word": "convinced",
+    "pos": "adj.",
+    "entry": "convinced adj.",
+    "old": "Convinced",
+    "new": "yakin, merasa percaya, mantap"
+  },
+  {
+    "row": 2744,
+    "level": "B2",
+    "word": "curved",
+    "pos": "adj.",
+    "entry": "curved adj.",
+    "old": "Curved",
+    "new": "melengkung, berlekuk"
+  },
+  {
+    "row": 2755,
+    "level": "B2",
+    "word": "defence",
+    "pos": "n.",
+    "entry": "defence n.",
+    "old": "= DEFENSE",
+    "new": "pertahanan, pembelaan"
+  },
+  {
+    "row": 2768,
+    "level": "B2",
+    "word": "depth",
+    "pos": "n.",
+    "entry": "depth n.",
+    "old": "dalam  the d. of a well dalamnya sumur, kedalaman, lebar",
+    "new": "dalam the d. of a well dalamnya sumur, kedalaman, lebar"
+  },
+  {
+    "row": 2777,
+    "level": "B2",
+    "word": "disc",
+    "pos": "n.",
+    "entry": "disc n.",
+    "old": "= DISK",
+    "new": "cakram, piringan, piringan hitam"
+  },
+  {
+    "row": 2791,
+    "level": "B2",
+    "word": "downwards",
+    "pos": "adv.",
+    "entry": "downwards adv.",
+    "old": "= DOWNWARD",
+    "new": "ke bawah, mengarah ke bawah, menurun"
+  },
+  {
+    "row": 2794,
+    "level": "B2",
+    "word": "drag",
+    "pos": "v.",
+    "entry": "drag v.",
+    "old": "tarikan, Sl.: isapan, pengerem",
+    "new": "menyeret, menarik dengan susah payah"
+  },
+  {
+    "row": 2796,
+    "level": "B2",
+    "word": "edit",
+    "pos": "v.",
+    "entry": "edit v.",
+    "old": "membaca dan memperbaiki, mempersiapkan  untuk diterbitkan, memimpin redaksi. -editing penelitian",
+    "new": "membaca dan memperbaiki, mempersiapkan untuk diterbitkan, memimpin redaksi. -editing penelitian"
+  },
+  {
+    "row": 2804,
+    "level": "B2",
+    "word": "emphasis",
+    "pos": "n.",
+    "entry": "emphasis n.",
+    "old": "tekanan. to put e.  on memberi tekanan pada, perhatian",
+    "new": "tekanan. to put e. on memberi tekanan pada, perhatian"
+  },
+  {
+    "row": 2810,
+    "level": "B2",
+    "word": "enquiry",
+    "pos": "n.",
+    "entry": "enquiry n.",
+    "old": "= INQUIRY",
+    "new": "pertanyaan, penyelidikan, permintaan keterangan"
+  },
+  {
+    "row": 2841,
+    "level": "B2",
+    "word": "favour",
+    "pos": "v.",
+    "entry": "favour v.",
+    "old": "Favour",
+    "new": "mendukung, menyukai, mengutamakan"
+  },
+  {
+    "row": 2853,
+    "level": "B2",
+    "word": "fix",
+    "pos": "n.",
+    "entry": "fix n.",
+    "old": "kesulitan, Nav.: penentuan posisi, Sl.: suapan",
+    "new": "perbaikan, jalan keluar, kesulitan"
+  },
+  {
+    "row": 2858,
+    "level": "B2",
+    "word": "fold",
+    "pos": "n.",
+    "entry": "fold n.",
+    "old": "lipatan, melipat, membungkus. -kki",
+    "new": "lipatan, lekukan"
+  },
+  {
+    "row": 2859,
+    "level": "B2",
+    "word": "folding",
+    "pos": "adj.",
+    "entry": "folding adj.",
+    "old": "lipatan, melipat, membungkus. -kki",
+    "new": "dapat dilipat, lipat"
+  },
+  {
+    "row": 2870,
+    "level": "B2",
+    "word": "fully",
+    "pos": "adv.",
+    "entry": "fully adv.",
+    "old": "Fully",
+    "new": "sepenuhnya, secara penuh, tuntas"
+  },
+  {
+    "row": 2881,
+    "level": "B2",
+    "word": "grab",
+    "pos": "v.",
+    "entry": "grab v.",
+    "old": "Sl.: up for grabs  tersedia, tinggal ambil, merebut",
+    "new": "meraih, menyambar, merebut, mengambil cepat"
+  },
+  {
+    "row": 2884,
+    "level": "B2",
+    "word": "grand",
+    "pos": "adj.",
+    "entry": "grand adj.",
+    "old": "Sl.: seribu dolar, agung, menyenangkan",
+    "new": "megah, agung, luar biasa"
+  },
+  {
+    "row": 2892,
+    "level": "B2",
+    "word": "heel",
+    "pos": "n.",
+    "entry": "heel n.",
+    "old": "tumit, : bangsat, bedebah. -memiringkan. -heeled bertumit",
+    "new": "tumit, bangsat, bedebah. -memiringkan. -heeled bertumit"
+  },
+  {
+    "row": 2894,
+    "level": "B2",
+    "word": "hesitate",
+    "pos": "v.",
+    "entry": "hesitate v.",
+    "old": "hesitate",
+    "new": "ragu-ragu, bimbang, segan"
+  },
+  {
+    "row": 2900,
+    "level": "B2",
+    "word": "honour",
+    "pos": "n., v.",
+    "entry": "honour n., v.",
+    "old": "Honour",
+    "new": "kehormatan, memuliakan, menghormati"
+  },
+  {
+    "row": 2904,
+    "level": "B2",
+    "word": "housing",
+    "pos": "n.",
+    "entry": "housing n.",
+    "old": "Housing",
+    "new": "perumahan, pemukiman, hunian"
+  },
+  {
+    "row": 2906,
+    "level": "B2",
+    "word": "humour",
+    "pos": "n.",
+    "entry": "humour n.",
+    "old": "Humour",
+    "new": "humor, kelucuan, rasa jenaka"
+  },
+  {
+    "row": 2922,
+    "level": "B2",
+    "word": "increasingly",
+    "pos": "adv.",
+    "entry": "increasingly adv.",
+    "old": "Increasingly",
+    "new": "semakin, kian, bertambah-tambah"
+  },
+  {
+    "row": 2933,
+    "level": "B2",
+    "word": "install",
+    "pos": "v.",
+    "entry": "install v.",
+    "old": "Install",
+    "new": "memasang, menginstal, melantik"
+  },
+  {
+    "row": 2947,
+    "level": "B2",
+    "word": "judgement",
+    "pos": "n.",
+    "entry": "judgement n.",
+    "old": "= JUDGMENT",
+    "new": "penilaian, pertimbangan, keputusan"
+  },
+  {
+    "row": 2951,
+    "level": "B2",
+    "word": "labour",
+    "pos": "n.",
+    "entry": "labour n.",
+    "old": "Labour",
+    "new": "tenaga kerja, kaum buruh, persalinan"
+  },
+  {
+    "row": 2954,
+    "level": "B2",
+    "word": "latest",
+    "pos": "n.",
+    "entry": "latest n.",
+    "old": "Latest",
+    "new": "kabar terbaru, hal terkini"
+  },
+  {
+    "row": 2961,
+    "level": "B2",
+    "word": "licence",
+    "pos": "n.",
+    "entry": "licence n.",
+    "old": "Licence",
+    "new": "izin, lisensi, surat izin mengemudi"
+  },
+  {
+    "row": 2968,
+    "level": "B2",
+    "word": "long-term",
+    "pos": "adj., adv.",
+    "entry": "long-term adj., adv.",
+    "old": "Long-term",
+    "new": "jangka panjang"
+  },
+  {
+    "row": 2969,
+    "level": "B2",
+    "word": "loose",
+    "pos": "adj.",
+    "entry": "loose adj.",
+    "old": ": on the l. bebas, lepas, longgar",
+    "new": "on the l. bebas, lepas, longgar"
+  },
+  {
+    "row": 2970,
+    "level": "B2",
+    "word": "lord",
+    "pos": "n.",
+    "entry": "lord n.",
+    "old": "raja. the L. a) Tuhan. b) Jesus Kristus. -to l.  over berbuat seolah-olah berkuasa atas",
+    "new": "raja. the L. a) Tuhan. b) Jesus Kristus. -to l. over berbuat seolah-olah berkuasa atas"
+  },
+  {
+    "row": 2990,
+    "level": "B2",
+    "word": "minimum",
+    "pos": "adj., n.",
+    "entry": "minimum adj., n.",
+    "old": "minimum",
+    "new": "minimum, paling sedikit, batas terendah"
+  },
+  {
+    "row": 3016,
+    "level": "B2",
+    "word": "object",
+    "pos": "v.",
+    "entry": "object v.",
+    "old": "objek, benda, keberatan",
+    "new": "keberatan, menolak"
+  },
+  {
+    "row": 3023,
+    "level": "B2",
+    "word": "offence",
+    "pos": "n.",
+    "entry": "offence n.",
+    "old": "Offence",
+    "new": "pelanggaran, tindak pidana, serangan"
+  },
+  {
+    "row": 3031,
+    "level": "B2",
+    "word": "opposed",
+    "pos": "adj.",
+    "entry": "opposed adj.",
+    "old": "Opposed",
+    "new": "menentang, berlawanan, berseberangan"
+  },
+  {
+    "row": 3033,
+    "level": "B2",
+    "word": "organ",
+    "pos": "n.",
+    "entry": "organ n.",
+    "old": "Mus.: orgel, organa, Anat.: bagian badan",
+    "new": "organ tubuh, alat musik organ"
+  },
+  {
+    "row": 3125,
+    "level": "B2",
+    "word": "rescue",
+    "pos": "v., n.",
+    "entry": "rescue v., n.",
+    "old": "Rescue",
+    "new": "menyelamatkan, penyelamatan, pertolongan"
+  },
+  {
+    "row": 3148,
+    "level": "B2",
+    "word": "saving",
+    "pos": "n.",
+    "entry": "saving n.",
+    "old": "Saving",
+    "new": "penghematan, tabungan, simpanan"
+  },
+  {
+    "row": 3152,
+    "level": "B2",
+    "word": "scream",
+    "pos": "v., n.",
+    "entry": "scream v., n.",
+    "old": "pekikan, jeritan, Sl.: badut",
+    "new": "menjerit, memekik, teriakan"
+  },
+  {
+    "row": 3196,
+    "level": "B2",
+    "word": "speed",
+    "pos": "v.",
+    "entry": "speed v.",
+    "old": "kecepatan, persneling, Sl.: amphetamine",
+    "new": "melaju cepat, melesat, mempercepat"
+  },
+  {
+    "row": 3207,
+    "level": "B2",
+    "word": "steady",
+    "pos": "adj.",
+    "entry": "steady adj.",
+    "old": ":  pacar, kokoh, tetap",
+    "new": "pacar, kokoh, tetap"
+  },
+  {
+    "row": 3208,
+    "level": "B2",
+    "word": "steel",
+    "pos": "n.",
+    "entry": "steel n.",
+    "old": "baja. s. blue biru  baja. s. castings tuangan baja. s. engraving a) seni pahat baja. b) ukiran baja",
+    "new": "baja. s. blue biru baja. s. castings tuangan baja. s. engraving a) seni pahat baja. b) ukiran baja"
+  },
+  {
+    "row": 3209,
+    "level": "B2",
+    "word": "steep",
+    "pos": "adj.",
+    "entry": "steep adj.",
+    "old": "curam, tinggi . -to s. o.s. in philosophy mendalami/mengasyikkan  dalam ilmu falsafah. -merendam dalam air panas",
+    "new": "curam, tinggi . -to s. o.s. in philosophy mendalami/mengasyikkan dalam ilmu falsafah. -merendam dalam air panas"
+  },
+  {
+    "row": 3212,
+    "level": "B2",
+    "word": "stiff",
+    "pos": "adj.",
+    "entry": "stiff adj.",
+    "old": "Sl.: mayat, kaku, keras",
+    "new": "kaku, keras, tegang"
+  },
+  {
+    "row": 3222,
+    "level": "B2",
+    "word": "submit",
+    "pos": "v.",
+    "entry": "submit v.",
+    "old": "mengajukan, menyampaikan, menyerahkan  -tunduk",
+    "new": "mengajukan, menyampaikan, menyerahkan -tunduk"
+  },
+  {
+    "row": 3225,
+    "level": "B2",
+    "word": "surround",
+    "pos": "v.",
+    "entry": "surround v.",
+    "old": "mengepung, mengelilingi, melingkungi. -surrounding  disekeliling. -surroundings",
+    "new": "mengepung, mengelilingi, melingkungi. -surrounding disekeliling. -surroundings"
+  },
+  {
+    "row": 3226,
+    "level": "B2",
+    "word": "surrounding",
+    "pos": "adj.",
+    "entry": "surrounding adj.",
+    "old": "mengepung, mengelilingi, melingkungi. -surrounding  disekeliling. -surroundings",
+    "new": "mengepung, mengelilingi, melingkungi. -surrounding disekeliling. -surroundings"
+  },
+  {
+    "row": 3236,
+    "level": "B2",
+    "word": "tear1",
+    "pos": "v., n.",
+    "entry": "tear1 v., n.",
+    "old": "air mata. -berlinang. tear-stained dibasahi",
+    "new": "merobek, menyobek, sobekan"
+  },
+  {
+    "row": 3237,
+    "level": "B2",
+    "word": "tear2",
+    "pos": "n.",
+    "entry": "tear2 n.",
+    "old": "air mata. -berlinang. tear-stained dibasahi",
+    "new": "merobek, menyobek, sobekan"
+  },
+  {
+    "row": 3253,
+    "level": "B2",
+    "word": "trip",
+    "pos": "v.",
+    "entry": "trip v.",
+    "old": "perjalanan, tamasya",
+    "new": "tersandung, menjegal"
+  },
+  {
+    "row": 3268,
+    "level": "B2",
+    "word": "upwards",
+    "pos": "adv.",
+    "entry": "upwards adv.",
+    "old": "Upwards",
+    "new": "ke atas, mengarah ke atas, naik"
+  },
+  {
+    "row": 3297,
+    "level": "B2",
+    "word": "wind2",
+    "pos": "v.",
+    "entry": "wind2 v.",
+    "old": "angin",
+    "new": "memutar, melilit, berliku-liku"
+  },
+  {
+    "row": 3298,
+    "level": "B2",
+    "word": "wire",
+    "pos": "n.",
+    "entry": "wire n.",
+    "old": "kawat, dawai, : telgram",
+    "new": "kawat, dawai, telgram"
+  },
+  {
+    "row": 3308,
+    "level": "B2",
+    "word": "zone",
+    "pos": "n.",
+    "entry": "zone n.",
+    "old": "daerah, mintakat. mailing z. daerah  pos, lingkungan",
+    "new": "daerah, mintakat. mailing z. daerah pos, lingkungan"
+  }
+]

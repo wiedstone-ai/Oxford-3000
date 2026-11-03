@@ -1,0 +1,821 @@
+[
+  {
+    "row": 59,
+    "no": "58",
+    "level": "A1",
+    "word": "bank (money)",
+    "pos": "n.",
+    "arti": "bank, tepi sungai",
+    "entry": "bank (money) n."
+  },
+  {
+    "row": 91,
+    "no": "90",
+    "level": "A1",
+    "word": "book",
+    "pos": "n.",
+    "arti": "buku, memesan",
+    "entry": "book n."
+  },
+  {
+    "row": 98,
+    "no": "97",
+    "level": "A1",
+    "word": "box",
+    "pos": "n.",
+    "arti": "kotak, kardus",
+    "entry": "box n."
+  },
+  {
+    "row": 121,
+    "no": "120",
+    "level": "A1",
+    "word": "can1",
+    "pos": "modal v.",
+    "arti": "bisa, dapat, kaleng",
+    "entry": "can1 modal v."
+  },
+  {
+    "row": 151,
+    "no": "150",
+    "level": "A1",
+    "word": "close1",
+    "pos": "v.",
+    "arti": "menutup, dekat, akrab",
+    "entry": "close1 v."
+  },
+  {
+    "row": 189,
+    "no": "188",
+    "level": "A1",
+    "word": "date",
+    "pos": "n.",
+    "arti": "tanggal, kurma, kencan",
+    "entry": "date n."
+  },
+  {
+    "row": 263,
+    "no": "262",
+    "level": "A1",
+    "word": "fall",
+    "pos": "v.",
+    "arti": "jatuh, musim gugur",
+    "entry": "fall v."
+  },
+  {
+    "row": 271,
+    "no": "270",
+    "level": "A1",
+    "word": "fast",
+    "pos": "adj., adv.",
+    "arti": "cepat, berpuasa",
+    "entry": "fast adj., adv."
+  },
+  {
+    "row": 287,
+    "no": "286",
+    "level": "A1",
+    "word": "fine",
+    "pos": "adj.",
+    "arti": "baik, bagus, denda",
+    "entry": "fine adj."
+  },
+  {
+    "row": 293,
+    "no": "292",
+    "level": "A1",
+    "word": "flat",
+    "pos": "n.",
+    "arti": "apartemen, datar, rata",
+    "entry": "flat n."
+  },
+  {
+    "row": 297,
+    "no": "296",
+    "level": "A1",
+    "word": "fly",
+    "pos": "v.",
+    "arti": "terbang, lalat",
+    "entry": "fly v."
+  },
+  {
+    "row": 347,
+    "no": "346",
+    "level": "A1",
+    "word": "hard",
+    "pos": "adj., adv.",
+    "arti": "keras, sulit, giat",
+    "entry": "hard adj., adv."
+  },
+  {
+    "row": 417,
+    "no": "416",
+    "level": "A1",
+    "word": "kind (type)",
+    "pos": "n.",
+    "arti": "jenis, macam, baik hati",
+    "entry": "kind (type) n."
+  },
+  {
+    "row": 423,
+    "no": "422",
+    "level": "A1",
+    "word": "last1 (final)",
+    "pos": "det.",
+    "arti": "terakhir, lalu, bertahan",
+    "entry": "last1 (final) det."
+  },
+  {
+    "row": 429,
+    "no": "428",
+    "level": "A1",
+    "word": "left",
+    "pos": "adj., adv., n.",
+    "arti": "kiri, tersisa",
+    "entry": "left adj., adv., n."
+  },
+  {
+    "row": 435,
+    "no": "434",
+    "level": "A1",
+    "word": "lie1",
+    "pos": "v.",
+    "arti": "berbohong, berbaring",
+    "entry": "lie1 v."
+  },
+  {
+    "row": 437,
+    "no": "436",
+    "level": "A1",
+    "word": "light (from the sun/a lamp)",
+    "pos": "n., adj.",
+    "arti": "cahaya, lampu, terang, ringan",
+    "entry": "light (from the sun/a lamp) n., adj."
+  },
+  {
+    "row": 438,
+    "no": "437",
+    "level": "A1",
+    "word": "like (similar)",
+    "pos": "prep.",
+    "arti": "seperti, menyukai, suka",
+    "entry": "like (similar) prep."
+  },
+  {
+    "row": 439,
+    "no": "438",
+    "level": "A1",
+    "word": "like (find sb/sth pleasant)",
+    "pos": "v.",
+    "arti": "seperti, menyukai, suka",
+    "entry": "like (find sb/sth pleasant) v."
+  },
+  {
+    "row": 463,
+    "no": "462",
+    "level": "A1",
+    "word": "match (contest/correspond)",
+    "pos": "n., v.",
+    "arti": "pertandingan, cocok, korek api",
+    "entry": "match (contest/correspond) n., v."
+  },
+  {
+    "row": 464,
+    "no": "463",
+    "level": "A1",
+    "word": "May",
+    "pos": "n.",
+    "arti": "Mei, boleh, mungkin",
+    "entry": "May n."
+  },
+  {
+    "row": 468,
+    "no": "467",
+    "level": "A1",
+    "word": "mean",
+    "pos": "v.",
+    "arti": "berarti, bermaksud, kejam",
+    "entry": "mean v."
+  },
+  {
+    "row": 482,
+    "no": "481",
+    "level": "A1",
+    "word": "miss",
+    "pos": "v.",
+    "arti": "merindukan, melewatkan, Nona",
+    "entry": "miss v."
+  },
+  {
+    "row": 534,
+    "no": "533",
+    "level": "A1",
+    "word": "object",
+    "pos": "n.",
+    "arti": "objek, benda, keberatan",
+    "entry": "object n."
+  },
+  {
+    "row": 569,
+    "no": "568",
+    "level": "A1",
+    "word": "park",
+    "pos": "n., v.",
+    "arti": "taman, memarkir",
+    "entry": "park n., v."
+  },
+  {
+    "row": 597,
+    "no": "596",
+    "level": "A1",
+    "word": "play",
+    "pos": "v., n.",
+    "arti": "bermain, memainkan, drama",
+    "entry": "play v., n."
+  },
+  {
+    "row": 600,
+    "no": "599",
+    "level": "A1",
+    "word": "point",
+    "pos": "n.",
+    "arti": "titik, poin, menunjuk",
+    "entry": "point n."
+  },
+  {
+    "row": 615,
+    "no": "614",
+    "level": "A1",
+    "word": "present",
+    "pos": "adj., n.",
+    "arti": "hadir, masa kini, hadiah, menyajikan",
+    "entry": "present adj., n."
+  },
+  {
+    "row": 651,
+    "no": "650",
+    "level": "A1",
+    "word": "right",
+    "pos": "adj., adv., n.",
+    "arti": "kanan, benar, hak",
+    "entry": "right adj., adv., n."
+  },
+  {
+    "row": 669,
+    "no": "668",
+    "level": "A1",
+    "word": "second1 (next after the first)",
+    "pos": "det./number",
+    "arti": "kedua, detik",
+    "entry": "second1 (next after the first) det./number"
+  },
+  {
+    "row": 670,
+    "no": "669",
+    "level": "A1",
+    "word": "second1 (unit of time)",
+    "pos": "n.",
+    "arti": "kedua, detik",
+    "entry": "second1 (unit of time) n."
+  },
+  {
+    "row": 718,
+    "no": "717",
+    "level": "A1",
+    "word": "sound",
+    "pos": "n., v.",
+    "arti": "suara, bunyi, terdengar",
+    "entry": "sound n., v."
+  },
+  {
+    "row": 728,
+    "no": "727",
+    "level": "A1",
+    "word": "spring",
+    "pos": "n.",
+    "arti": "musim semi, mata air, pegas",
+    "entry": "spring n."
+  },
+  {
+    "row": 730,
+    "no": "729",
+    "level": "A1",
+    "word": "star",
+    "pos": "n.",
+    "arti": "bintang",
+    "entry": "star n."
+  },
+  {
+    "row": 811,
+    "no": "810",
+    "level": "A1",
+    "word": "train",
+    "pos": "n.",
+    "arti": "kereta api, melatih",
+    "entry": "train n."
+  },
+  {
+    "row": 814,
+    "no": "813",
+    "level": "A1",
+    "word": "trip",
+    "pos": "n.",
+    "arti": "perjalanan, tamasya",
+    "entry": "trip n."
+  },
+  {
+    "row": 854,
+    "no": "853",
+    "level": "A1",
+    "word": "watch",
+    "pos": "v., n.",
+    "arti": "menonton, jam tangan, mengamati",
+    "entry": "watch v., n."
+  },
+  {
+    "row": 865,
+    "no": "864",
+    "level": "A1",
+    "word": "well",
+    "pos": "adv., adj., exclam.",
+    "arti": "dengan baik, sehat, sumur",
+    "entry": "well adv., adj., exclam."
+  },
+  {
+    "row": 875,
+    "no": "874",
+    "level": "A1",
+    "word": "will",
+    "pos": "modal v.",
+    "arti": "akan, kemauan, surat wasiat",
+    "entry": "will modal v."
+  },
+  {
+    "row": 976,
+    "no": "975",
+    "level": "A2",
+    "word": "bear (animal)",
+    "pos": "n.",
+    "arti": "beruang.-kkt, memikul, tahan",
+    "entry": "bear (animal) n."
+  },
+  {
+    "row": 997,
+    "no": "996",
+    "level": "A2",
+    "word": "board",
+    "pos": "n.",
+    "arti": "papan, papan tulis, makanan",
+    "entry": "board n."
+  },
+  {
+    "row": 1000,
+    "no": "999",
+    "level": "A2",
+    "word": "book",
+    "pos": "v.",
+    "arti": "buku, memesan",
+    "entry": "book v."
+  },
+  {
+    "row": 1016,
+    "no": "1015",
+    "level": "A2",
+    "word": "can2",
+    "pos": "n.",
+    "arti": "bisa, dapat, kaleng",
+    "entry": "can2 n."
+  },
+  {
+    "row": 1048,
+    "no": "1047",
+    "level": "A2",
+    "word": "close2",
+    "pos": "adj.",
+    "arti": "menutup, dekat, akrab",
+    "entry": "close2 adj."
+  },
+  {
+    "row": 1090,
+    "no": "1089",
+    "level": "A2",
+    "word": "cross",
+    "pos": "v., n.",
+    "arti": "Rel, : kayu salib, palang",
+    "entry": "cross v., n."
+  },
+  {
+    "row": 1190,
+    "no": "1189",
+    "level": "A2",
+    "word": "fair",
+    "pos": "adj.",
+    "arti": "pekan raya, pasar malam, kuning langsat",
+    "entry": "fair adj."
+  },
+  {
+    "row": 1191,
+    "no": "1190",
+    "level": "A2",
+    "word": "fall",
+    "pos": "n.",
+    "arti": "jatuh, musim gugur",
+    "entry": "fall n."
+  },
+  {
+    "row": 1216,
+    "no": "1215",
+    "level": "A2",
+    "word": "flat",
+    "pos": "adj.",
+    "arti": "apartemen, datar, rata",
+    "entry": "flat adj."
+  },
+  {
+    "row": 1218,
+    "no": "1217",
+    "level": "A2",
+    "word": "fly",
+    "pos": "n.",
+    "arti": "terbang, lalat",
+    "entry": "fly n."
+  },
+  {
+    "row": 1334,
+    "no": "1333",
+    "level": "A2",
+    "word": "last1 (final)",
+    "pos": "adv., n.",
+    "arti": "terakhir, lalu, bertahan",
+    "entry": "last1 (final) adv., n."
+  },
+  {
+    "row": 1335,
+    "no": "1334",
+    "level": "A2",
+    "word": "last1 (taking time)",
+    "pos": "v.",
+    "arti": "terakhir, lalu, bertahan",
+    "entry": "last1 (taking time) v."
+  },
+  {
+    "row": 1341,
+    "no": "1340",
+    "level": "A2",
+    "word": "lead1",
+    "pos": "v.",
+    "arti": "timah. l. pencil potlot. lead-colored lebam, kelam. : lead-pipe cinch a) kepastian",
+    "entry": "lead1 v."
+  },
+  {
+    "row": 1352,
+    "no": "1351",
+    "level": "A2",
+    "word": "light (from the sun/a lamp)",
+    "pos": "v.",
+    "arti": "cahaya, lampu, terang, ringan",
+    "entry": "light (from the sun/a lamp) v."
+  },
+  {
+    "row": 1353,
+    "no": "1352",
+    "level": "A2",
+    "word": "light (not heavy)",
+    "pos": "adj.",
+    "arti": "cahaya, lampu, terang, ringan",
+    "entry": "light (not heavy) adj."
+  },
+  {
+    "row": 1380,
+    "no": "1379",
+    "level": "A2",
+    "word": "may",
+    "pos": "modal v.",
+    "arti": "Mei, boleh, mungkin",
+    "entry": "may modal v."
+  },
+  {
+    "row": 1485,
+    "no": "1484",
+    "level": "A2",
+    "word": "present",
+    "pos": "v.",
+    "arti": "hadir, masa kini, hadiah, menyajikan",
+    "entry": "present v."
+  },
+  {
+    "row": 1529,
+    "no": "1528",
+    "level": "A2",
+    "word": "record",
+    "pos": "n., v.",
+    "arti": "Mus.: peringan hitam, catatan, rekor",
+    "entry": "record n., v."
+  },
+  {
+    "row": 1549,
+    "no": "1548",
+    "level": "A2",
+    "word": "rest (remaining part)",
+    "pos": "n.",
+    "arti": "istirahat, tidur, sisa",
+    "entry": "rest (remaining part) n."
+  },
+  {
+    "row": 1550,
+    "no": "1549",
+    "level": "A2",
+    "word": "rest (sleep/relax)",
+    "pos": "n., v.",
+    "arti": "istirahat, tidur, sisa",
+    "entry": "rest (sleep/relax) n., v."
+  },
+  {
+    "row": 1553,
+    "no": "1552",
+    "level": "A2",
+    "word": "ring1",
+    "pos": "n.",
+    "arti": "cincin, komplotan, jaringan",
+    "entry": "ring1 n."
+  },
+  {
+    "row": 1554,
+    "no": "1553",
+    "level": "A2",
+    "word": "ring2",
+    "pos": "v.",
+    "arti": "cincin, komplotan, jaringan",
+    "entry": "ring2 v."
+  },
+  {
+    "row": 1556,
+    "no": "1555",
+    "level": "A2",
+    "word": "rock (stone)",
+    "pos": "n.",
+    "arti": "batu, Sl.: Mus.: musik ngak - ngik-nguk, mengayun-ayun . rock-bottom paling rendah. rock-bound berbatu karang",
+    "entry": "rock (stone) n."
+  },
+  {
+    "row": 1557,
+    "no": "1556",
+    "level": "A2",
+    "word": "rock (music)",
+    "pos": "n.",
+    "arti": "batu, Sl.: Mus.: musik ngak - ngik-nguk, mengayun-ayun . rock-bottom paling rendah. rock-bound berbatu karang",
+    "entry": "rock (music) n."
+  },
+  {
+    "row": 1584,
+    "no": "1583",
+    "level": "A2",
+    "word": "second1 (next after the first)",
+    "pos": "adv.",
+    "arti": "kedua, detik",
+    "entry": "second1 (next after the first) adv."
+  },
+  {
+    "row": 1605,
+    "no": "1604",
+    "level": "A2",
+    "word": "sign",
+    "pos": "n., v.",
+    "arti": "tanda, papan tanda, pertanda",
+    "entry": "sign n., v."
+  },
+  {
+    "row": 1647,
+    "no": "1646",
+    "level": "A2",
+    "word": "star",
+    "pos": "v.",
+    "arti": "bintang",
+    "entry": "star v."
+  },
+  {
+    "row": 1714,
+    "no": "1713",
+    "level": "A2",
+    "word": "train",
+    "pos": "v.",
+    "arti": "kereta api, melatih",
+    "entry": "train v."
+  },
+  {
+    "row": 1747,
+    "no": "1746",
+    "level": "A2",
+    "word": "wave",
+    "pos": "n.",
+    "arti": "gelombang. radio w. gelombang radio, keriting, ikal",
+    "entry": "wave n."
+  },
+  {
+    "row": 1760,
+    "no": "1759",
+    "level": "A2",
+    "word": "wind1",
+    "pos": "n.",
+    "arti": "angin",
+    "entry": "wind1 n."
+  },
+  {
+    "row": 1832,
+    "no": "1831",
+    "level": "B1",
+    "word": "bank (river)",
+    "pos": "n.",
+    "arti": "bank, tepi sungai",
+    "entry": "bank (river) n."
+  },
+  {
+    "row": 1847,
+    "no": "1846",
+    "level": "B1",
+    "word": "board",
+    "pos": "v.",
+    "arti": "papan, papan tulis, makanan",
+    "entry": "board v."
+  },
+  {
+    "row": 1892,
+    "no": "1891",
+    "level": "B1",
+    "word": "close2",
+    "pos": "adv.",
+    "arti": "menutup, dekat, akrab",
+    "entry": "close2 adv."
+  },
+  {
+    "row": 2160,
+    "no": "2159",
+    "level": "B1",
+    "word": "kind (caring)",
+    "pos": "adj.",
+    "arti": "jenis, macam, baik hati",
+    "entry": "kind (caring) adj."
+  },
+  {
+    "row": 2169,
+    "no": "2168",
+    "level": "B1",
+    "word": "lead1",
+    "pos": "n.",
+    "arti": "timah. l. pencil potlot. lead-colored lebam, kelam. : lead-pipe cinch a) kepastian",
+    "entry": "lead1 n."
+  },
+  {
+    "row": 2177,
+    "no": "2176",
+    "level": "B1",
+    "word": "lie2 (tell a lie)",
+    "pos": "v., n.",
+    "arti": "berbohong, berbaring",
+    "entry": "lie2 (tell a lie) v., n."
+  },
+  {
+    "row": 2178,
+    "no": "2177",
+    "level": "B1",
+    "word": "like (find sb/sth pleasant)",
+    "pos": "n.",
+    "arti": "seperti, menyukai, suka",
+    "entry": "like (find sb/sth pleasant) n."
+  },
+  {
+    "row": 2283,
+    "no": "2282",
+    "level": "B1",
+    "word": "point",
+    "pos": "v.",
+    "arti": "titik, poin, menunjuk",
+    "entry": "point v."
+  },
+  {
+    "row": 2381,
+    "no": "2380",
+    "level": "B1",
+    "word": "ring2",
+    "pos": "n.",
+    "arti": "cincin, komplotan, jaringan",
+    "entry": "ring2 n."
+  },
+  {
+    "row": 2450,
+    "no": "2449",
+    "level": "B1",
+    "word": "spring",
+    "pos": "v.",
+    "arti": "musim semi, mata air, pegas",
+    "entry": "spring v."
+  },
+  {
+    "row": 2457,
+    "no": "2456",
+    "level": "B1",
+    "word": "stick (push into/attach)",
+    "pos": "v.",
+    "arti": "tongkat, batang, potongan",
+    "entry": "stick (push into/attach) v."
+  },
+  {
+    "row": 2458,
+    "no": "2457",
+    "level": "B1",
+    "word": "stick (piece of wood)",
+    "pos": "n.",
+    "arti": "tongkat, batang, potongan",
+    "entry": "stick (piece of wood) n."
+  },
+  {
+    "row": 2558,
+    "no": "2557",
+    "level": "B1",
+    "word": "wave",
+    "pos": "v.",
+    "arti": "gelombang. radio w. gelombang radio, keriting, ikal",
+    "entry": "wave v."
+  },
+  {
+    "row": 2567,
+    "no": "2566",
+    "level": "B1",
+    "word": "will",
+    "pos": "n.",
+    "arti": "akan, kemauan, surat wasiat",
+    "entry": "will n."
+  },
+  {
+    "row": 2642,
+    "no": "2641",
+    "level": "B2",
+    "word": "bear (deal with)",
+    "pos": "v.",
+    "arti": "beruang.-kkt, memikul, tahan",
+    "entry": "bear (deal with) v."
+  },
+  {
+    "row": 2687,
+    "no": "2686",
+    "level": "B2",
+    "word": "close1",
+    "pos": "n.",
+    "arti": "menutup, dekat, akrab",
+    "entry": "close1 n."
+  },
+  {
+    "row": 2746,
+    "no": "2745",
+    "level": "B2",
+    "word": "date",
+    "pos": "v.",
+    "arti": "tanggal, kurma, kencan",
+    "entry": "date v."
+  },
+  {
+    "row": 3017,
+    "no": "3016",
+    "level": "B2",
+    "word": "object",
+    "pos": "v.",
+    "arti": "objek, benda, keberatan",
+    "entry": "object v."
+  },
+  {
+    "row": 3237,
+    "no": "3236",
+    "level": "B2",
+    "word": "tear1",
+    "pos": "v., n.",
+    "arti": "air mata. -berlinang. tear-stained dibasahi",
+    "entry": "tear1 v., n."
+  },
+  {
+    "row": 3238,
+    "no": "3237",
+    "level": "B2",
+    "word": "tear2",
+    "pos": "n.",
+    "arti": "air mata. -berlinang. tear-stained dibasahi",
+    "entry": "tear2 n."
+  },
+  {
+    "row": 3254,
+    "no": "3253",
+    "level": "B2",
+    "word": "trip",
+    "pos": "v.",
+    "arti": "perjalanan, tamasya",
+    "entry": "trip v."
+  },
+  {
+    "row": 3298,
+    "no": "3297",
+    "level": "B2",
+    "word": "wind2",
+    "pos": "v.",
+    "arti": "angin",
+    "entry": "wind2 v."
+  }
+]

@@ -1,0 +1,901 @@
+A1 Word,A1 Part of Speech,A2 Word,A2 Part of Speech,B1 Word,B1 Part of Speech,B2 Word,B2 Part of Speech
+"a, an",indefinite article,ability,n.,absolutely,adv.,abandon,v.
+about,"prep., adv.",able,adj.,academic,adj.,absolute,adj.
+above,"prep., adv.",abroad,adv.,access,"n., v.",academic,n.
+across,"prep., adv.",accept,v.,accommodation,n.,acceptable,adj.
+action,n.,accident,n.,account,n.,accompany,v.
+activity,n.,according to,prep.,achievement,n.,account,v.
+actor,n.,achieve,v.,act,n.,accurate,adj.
+actress,n.,act,v.,ad,n.,accuse,v.
+add,v.,active,adj.,addition,n.,acknowledge,v.
+address,n.,actually,adv.,admire,v.,acquire,v.
+adult,n.,adult,adj.,admit,v.,actual,adj.
+advice,n.,advantage,n.,advanced,adj.,adapt,v.
+afraid,adj.,adventure,n.,advise,v.,additional,adj.
+after,prep.,advertise,v.,afford,v.,address,v.
+afternoon,n.,advertisement,n.,age,v.,administration,n.
+again,adv.,advertising,n.,aged,adj.,adopt,v.
+age,n.,affect,v.,agent,n.,advance,"n., v., adj."
+ago,adv.,after,"conj., adv.",agreement,n.,affair,n.
+agree,v.,against,prep.,ahead,adv.,afterwards,adv.
+air,n.,ah,exclam.,aim,"v., n.",agency,n.
+airport,n.,airline,n.,alarm,n.,agenda,n.
+all,"det., pron.",alive,adj.,album,n.,aggressive,adj.
+also,adv.,all,adv.,alcohol,n.,aid,"n., v."
+always,adv.,all right,"adj./adv., exclam.",alcoholic,adj.,aircraft,n.
+amazing,adj.,allow,v.,alternative,adj.,alarm,v.
+and,conj.,almost,adv.,amazed,adj.,alter,v.
+angry,adj.,alone,adj./adv.,ambition,n.,amount,v.
+animal,n.,along,"prep., adv.",ambitious,adj.,anger,n.
+another,det./pron.,already,adv.,analyse,v.,angle,n.
+answer,"n., v.",alternative,n.,analysis,n.,anniversary,n.
+any,"det., pron.",although,conj.,announce,v.,annual,adj.
+anyone,pron.,among,prep.,announcement,n.,anxious,adj.
+anything,pron.,amount,n.,annoy,v.,apparent,adj.
+apartment,n.,ancient,adj.,annoyed,adj.,apparently,adv.
+apple,n.,ankle,n.,annoying,adj.,appeal,"n., v."
+April,n.,any,adv.,apart,adv.,approach,"n., v."
+area,n.,anybody,pron.,apologize,v.,appropriate,adj.
+arm,n.,any more,adv.,application,n.,approval,n.
+around,"prep., adv.",anyway,adv.,appointment,n.,approve,v.
+arrive,v.,anywhere,"adv., pron.",appreciate,v.,arise,v.
+art,n.,app,n.,approximately,adv.,armed,adj.
+article,n.,appear,v.,arrest,"v., n.",arms,n.
+artist,n.,appearance,n.,arrival,n.,artificial,adj.
+as,prep.,apply,v.,assignment,n.,artistic,adj.
+ask,v.,architect,n.,assist,v.,ashamed,adj.
+at,prep.,architecture,n.,atmosphere,n.,aspect,n.
+August,n.,argue,v.,attach,v.,assess,v.
+aunt,n.,argument,n.,attitude,n.,assessment,n.
+autumn,n.,army,n.,attract,v.,associate,v.
+away,adv.,arrange,v.,attraction,n.,associated,adj.
+baby,n.,arrangement,n.,authority,n.,association,n.
+back,"n., adv.",as,"adv., conj.",average,v.,assume,v.
+bad,adj.,asleep,adj.,award,v.,attempt,"n., v."
+bag,n.,assistant,"n., adj.",aware,adj.,back,v.
+ball,n.,athlete,n.,backwards,adv.,bacteria,n.
+banana,n.,attack,"n., v.",bake,v.,bar,v.
+band,n.,attend,v.,balance,"n., v.",barrier,n.
+bank (money),n.,attention,"n., exclam.",ban,"v., n.",basically,adv.
+bath,n.,attractive,adj.,bank (river),n.,battle,v.
+bathroom,n.,audience,n.,base,"n., v.",bear (deal with),v.
+be,"v., auxiliary v.",author,n.,basic,adj.,beat,n.
+beach,n.,available,adj.,basis,n.,beg,v.
+beautiful,adj.,average,"adj., n.",battery,n.,being,n.
+because,conj.,avoid,v.,battle,n.,bent,adj.
+become,v.,award,n.,beauty,n.,bet,"v., n."
+bed,n.,awful,adj.,bee,n.,beyond,"prep., adv."
+bedroom,n.,back,adj.,belief,n.,bill,v.
+beer,n.,background,n.,bell,n.,bitter,adj.
+before,prep.,badly,adv.,bend,"v., n.",blame,"v., n."
+begin,v.,bar,n.,benefit,v.,blind,adj.
+beginning,n.,baseball,n.,better,n.,bond,n.
+behind,"prep., adv.",based,adj.,bite,"v., n.",border,v.
+believe,v.,basketball,n.,block,"n., v.",breast,n.
+below,"adv., prep.",bean,n.,board,v.,brief,adj.
+best,adj.,bear (animal),n.,bomb,"n., v.",broad,adj.
+better,adj.,beat,v.,border,n.,broadcast,"v., n."
+between,prep.,beef,n.,bother,v.,budget,n.
+bicycle,n.,before,"conj., adv.",branch,n.,bullet,n.
+big,adj.,behave,v.,brand,"n., v.",bunch,n.
+bike,n.,behaviour,n.,brave,adj.,burn,n.
+bill,n.,belong,v.,breath,n.,bush,n.
+bird,n.,belt,n.,breathe,v.,but,prep.
+birthday,n.,benefit,n.,breathing,n.,cable,n.
+black,"adj., n.",best,"adv., n.",bride,n.,calculate,v.
+blog,n.,better,adv.,bubble,n.,cancel,v.
+blonde,adj.,between,adv.,bury,v.,cancer,n.
+blue,"adj., n.",billion,number,by,adv.,capable,adj.
+boat,n.,bin,n.,calm,"adj., v., n.",capacity,n.
+body,n.,biology,n.,campaign,"n., v.",capture,"v., n."
+book,n.,birth,n.,campus,n.,cast,"n., v."
+boot,n.,biscuit,n.,candidate,n.,catch,n.
+bored,adj.,bit,n.,cap,n.,cell,n.
+boring,adj.,blank,"adj., n.",captain,n.,chain,v.
+born,v.,blood,n.,careless,adj.,chair,v.
+both,det./pron.,blow,v.,category,n.,chairman,n.
+bottle,n.,board,n.,ceiling,n.,challenge,v.
+box,n.,boil,v.,celebration,n.,characteristic,"n., adj."
+boy,n.,bone,n.,central,adj.,chart,v.
+boyfriend,n.,book,v.,centre,v.,chief,"adj., n."
+bread,n.,borrow,v.,ceremony,n.,circumstance,n.
+break,"v., n.",boss,n.,chain,n.,cite,v.
+breakfast,n.,bottom,"n., adj.",challenge,n.,citizen,n.
+bring,v.,bowl,n.,champion,n.,civil,adj.
+brother,n.,brain,n.,channel,n.,classic,"adj., n."
+brown,"adj., n.",bridge,n.,chapter,n.,close1,n.
+build,v.,bright,adj.,charge,"n., v.",closely,adv.
+building,n.,brilliant,adj.,cheap,adv.,collapse,"v., n."
+bus,n.,broken,adj.,cheat,"v., n.",combination,n.
+business,n.,brush,"v., n.",cheerful,adj.,comfort,"n., v."
+busy,adj.,burn,v.,chemical,"adj., n.",command,"n., v."
+but,conj.,businessman,n.,chest,n.,commission,"n., v."
+butter,n.,button,n.,childhood,n.,commitment,n.
+buy,v.,camp,"n., v.",claim,"v., n.",committee,n.
+by,prep.,camping,n.,clause,n.,commonly,adv.
+bye,exclam.,can2,n.,clear,v.,complex,n.
+cafe,n.,care,"n., v.",click,"v., n.",complicated,adj.
+cake,n.,careful,adj.,client,n.,component,n.
+call,"v., n.",carefully,adv.,climb,n.,concentration,n.
+camera,n.,carpet,n.,close2,adv.,concept,n.
+can1,modal v.,cartoon,n.,cloth,n.,concern,"n., v."
+cannot,modal v.,case,n.,clue,n.,concerned,adj.
+capital,"n., adj.",cash,n.,coach,v.,conduct,"v., n."
+car,n.,castle,n.,coal,n.,confidence,n.
+card,n.,catch,v.,coin,n.,conflict,"n., v."
+career,n.,cause,"n., v.",collection,n.,confusing,adj.
+carrot,n.,celebrate,v.,coloured,adj.,conscious,adj.
+carry,v.,celebrity,n.,combine,v.,conservative,"adj., n."
+cat,n.,certain,adj.,comment,v.,consideration,n.
+CD,n.,certainly,adv.,commercial,"adj., n.",consistent,adj.
+cent,n.,chance,n.,commit,v.,constant,adj.
+centre,n.,character,n.,communication,n.,constantly,adv.
+century,n.,charity,n.,comparison,n.,construct,v.
+chair,n.,chat,"v., n.",competitor,n.,construction,n.
+change,"v., n.",check,n.,competitive,adj.,contemporary,adj.
+chart,n.,chef,n.,complaint,n.,contest,"n., v."
+cheap,adj.,chemistry,n.,complex,adj.,contract,"n., v."
+check,v.,chip,n.,concentrate,v.,contribute,v.
+cheese,n.,choice,n.,conclude,v.,contribution,n.
+chicken,n.,church,n.,conclusion,n.,convert,v.
+child,n.,cigarette,n.,confident,adj.,convinced,adj.
+chocolate,n.,circle,"n., v.",confirm,v.,core,"n., adj."
+choose,v.,classical,adj.,confuse,v.,corporate,adj.
+cinema,n.,clear,adj.,confused,adj.,council,n.
+city,n.,clearly,adv.,connection,n.,county,n.
+class,n.,clever,adj.,consequence,n.,courage,n.
+classroom,n.,climate,n.,consist,v.,crash,"n., v."
+clean,"adj., v.",close2,adj.,consume,v.,creation,n.
+climb,v.,closed,adj.,consumer,n.,creature,n.
+clock,n.,clothing,n.,contact,"n., v.",credit,v.
+close1,v.,cloud,n.,container,n.,crew,n.
+clothes,n.,coach,n.,content1,n.,crisis,n.
+club,n.,coast,n.,continuous,adj.,criterion,n.
+coat,n.,code,n.,contrast,"n., v.",critic,n.
+coffee,n.,colleague,n.,convenient,adj.,critical,adj.
+cold,"adj., n.",collect,v.,convince,v.,criticism,n.
+college,n.,column,n.,cool,v.,criticize,v.
+colour,n.,comedy,n.,costume,n.,crop,n.
+come,v.,comfortable,adj.,cottage,n.,crucial,adj.
+common,adj.,comment,n.,cotton,n.,cry,n.
+company,n.,communicate,v.,count,n.,cure,"v., n."
+compare,v.,community,n.,countryside,n.,current,n.
+complete,"adj., v.",compete,v.,court,n.,curve,"n., v."
+computer,n.,competition,n.,cover,n.,curved,adj.
+concert,n.,complain,v.,covered,adj.,date,v.
+conversation,n.,completely,adv.,cream,adj.,debate,"n., v."
+cook,v.,condition,n.,criminal,adj.,debt,n.
+cooking,n.,conference,n.,cruel,adj.,decent,adj.
+cool,adj.,connect,v.,cultural,adj.,declare,v.
+correct,"adj., v.",connected,adj.,currency,n.,decline,"v., n."
+cost,"n., v.",consider,v.,current,adj.,decoration,n.
+could,modal v.,contain,v.,currently,adv.,decrease,"v., n."
+country,n.,context,n.,curtain,n.,deeply,adv.
+course,n.,continent,n.,custom,n.,defeat,"v., n."
+cousin,n.,continue,v.,cut,n.,defence,n.
+cow,n.,control,"n., v.",daily,adv.,defend,v.
+cream,n.,cook,n.,damage,"n., v.",delay,"v., n."
+create,v.,cooker,n.,deal,n.,deliberate,adj.
+culture,n.,copy,"n., v.",decade,n.,deliberately,adv.
+cup,n.,corner,n.,decorate,v.,delight,"v., n."
+customer,n.,correctly,adv.,deep,adv.,delighted,adj.
+cut,v.,count,v.,define,v.,delivery,n.
+dad,n.,couple,n.,definite,adj.,demand,"n., v."
+dance,"n., v.",cover,v.,definition,n.,demonstrate,v.
+dancer,n.,crazy,adj.,deliver,v.,deny,v.
+dancing,n.,creative,adj.,departure,n.,depressed,adj.
+dangerous,adj.,credit,n.,despite,prep.,depressing,adj.
+dark,adj.,crime,n.,destination,n.,depth,n.
+date,n.,criminal,n.,determine,v.,desert,v.
+daughter,n.,cross,"v., n.",determined,adj.,deserve,v.
+day,n.,crowd,n.,development,n.,desire,"n., v."
+dear,adj.,crowded,adj.,diagram,n.,desperate,adj.
+December,n.,cry,v.,diamond,n.,detail,v.
+decide,v.,cupboard,n.,difficulty,n.,detailed,adj.
+delicious,adj.,curly,adj.,direct,"v., adv.",detect,v.
+describe,v.,cycle,"n., v.",directly,adv.,dig,v.
+description,n.,daily,adj.,dirt,n.,disc,n.
+design,"n., v.",danger,n.,disadvantage,n.,discipline,n.
+desk,n.,dark,n.,disappointed,adj.,discount,v.
+detail,n.,data,n.,disappointing,adj.,dishonest,adj.
+dialogue,n.,dead,adj.,discount,n.,dismiss,v.
+dictionary,n.,deal,v.,dislike,"v., n.",display,"v., n."
+die,v.,dear,exclam.,divide,v.,distribute,v.
+diet,n.,death,n.,documentary,n.,distribution,n.
+difference,n.,decision,n.,donate,v.,district,n.
+different,adj.,deep,adj.,double,adv.,divide,n.
+difficult,adj.,definitely,adv.,doubt,"n., v.",division,n.
+dinner,n.,degree,n.,dressed,adj.,document,v.
+dirty,adj.,dentist,n.,drop,n.,domestic,adj.
+discuss,v.,department,n.,drum,n.,dominate,v.
+dish,n.,depend,v.,drunk,adj.,downwards,adv.
+do1,"v., auxiliary v.",desert,n.,due,adj.,dozen,"n., det."
+doctor,n.,designer,n.,dust,n.,draft,"n., v."
+dog,n.,destroy,v.,duty,n.,drag,v.
+dollar,n.,detective,n.,earthquake,n.,dramatic,adj.
+door,n.,develop,v.,eastern,adj.,edit,v.
+down,"adv., prep.",device,n.,economic,adj.,edition,n.
+downstairs,adv.,diary,n.,economy,n.,efficient,adj.
+draw,v.,differently,adv.,edge,n.,elderly,adj.
+dress,"n., v.",digital,adj.,editor,n.,elect,v.
+drink,"n., v.",direct,adj.,educate,v.,elsewhere,adv.
+drive,v.,direction,n.,educated,adj.,emerge,v.
+driver,n.,director,n.,educational,adj.,emotional,adj.
+during,prep.,disagree,v.,effective,adj.,emphasis,n.
+DVD,n.,disappear,v.,effectively,adv.,emphasize,v.
+each,det./pron./adv.,disaster,n.,effort,n.,enable,v.
+ear,n.,discover,v.,election,n.,encounter,"v., n."
+early,"adj., adv.",discovery,n.,element,n.,engage,v.
+east,"n., adj., adv.",discussion,n.,embarrassed,adj.,enhance,v.
+easy,adj.,disease,n.,embarrassing,adj.,enquiry,n.
+eat,v.,distance,n.,emergency,n.,ensure,v.
+egg,n.,divorced,adj.,emotion,n.,enthusiasm,n.
+eight,number,document,n.,employment,n.,enthusiastic,adj.
+eighteen,number,double,"adj., det., pron., v.",empty,v.,entire,adj.
+eighty,number,download,"v., n.",encourage,v.,entirely,adv.
+elephant,n.,downstairs,adj.,enemy,n.,equal,n.
+eleven,number,drama,n.,engaged,adj.,establish,v.
+else,adv.,drawing,n.,engineering,n.,estate,n.
+email,"n., v.",dream,"n., v.",entertain,v.,estimate,"v., n."
+end,"n., v.",drive,n.,entertainment,n.,ethical,adj.
+enjoy,v.,driving,n.,entrance,n.,evaluate,v.
+enough,"det., pron., adv.",drop,v.,entry,n.,even,adj.
+euro,n.,drug,n.,environmental,adj.,evil,"adj., n."
+even,adv.,dry,"adj., v.",episode,n.,examination,n.
+evening,n.,earn,v.,equal,"adj., v.",excuse,"n., v."
+event,n.,earth,n.,equally,adv.,executive,"n., adj."
+ever,adv.,easily,adv.,escape,"v., n.",existence,n.
+every,det.,education,n.,essential,adj.,expectation,n.
+everybody,pron.,effect,n.,eventually,adv.,expense,n.
+everyone,pron.,either,"det./pron., adv.",examine,v.,exploration,n.
+everything,pron.,electric,adj.,except,conj.,expose,v.
+exam,n.,electrical,adj.,exchange,"n., v.",extend,v.
+example,n.,electricity,n.,excitement,n.,extent,n.
+excited,adj.,electronic,adj.,exhibition,n.,external,adj.
+exciting,adj.,employ,v.,expand,v.,extraordinary,adj.
+exercise,"n., v.",employee,n.,expected,adj.,extreme,n.
+expensive,adj.,employer,n.,expedition,n.,facility,n.
+explain,v.,empty,adj.,experience,v.,failure,n.
+extra,adj.,ending,n.,experienced,adj.,faith,n.
+eye,n.,energy,n.,experiment,v.,fault,n.
+face,n.,engine,n.,explode,v.,favour,v.
+fact,n.,engineer,n.,explore,v.,feather,n.
+fall,v.,enormous,adj.,explosion,n.,fee,n.
+false,adj.,enter,v.,export,"n., v.",feed,n.
+family,"n., adj.",environment,n.,extra,"n., adv.",feedback,n.
+famous,adj.,equipment,n.,face,v.,feel,n.
+fantastic,adj.,error,n.,fairly,adv.,fellow,adj.
+far,adv.,especially,adv.,familiar,adj.,figure,v.
+farm,n.,essay,n.,fancy,"v., adj.",file,v.
+farmer,n.,everyday,adj.,far,adj.,finance,"n., v."
+fast,"adj., adv.",everywhere,adv.,fascinating,adj.,finding,n.
+fat,adj.,evidence,n.,fashionable,adj.,firm,n.
+father,n.,exact,adj.,fasten,v.,fix,n.
+favourite,"adj., n.",exactly,adv.,favour,n.,flame,n.
+February,n.,excellent,adj.,fear,v.,flash,"n., v."
+feel,v.,except,prep.,feature,v.,flexible,adj.
+feeling,n.,exist,v.,fence,n.,float,v.
+festival,n.,expect,v.,fighting,n.,fold,n.
+few,"det./adj., pron.",experience,n.,file,n.,folding,adj.
+fifteen,number,experiment,n.,financial,adj.,following,prep.
+fifth,number,expert,"n.,adj.",fire,v.,forgive,v.
+fifty,number,explanation,n.,fitness,n.,former,adj.
+fill,v.,express,v.,fixed,adj.,fortune,n.
+film,n.,expression,n.,flag,n.,forward,adj.
+final,adj.,extreme,adj.,flood,"n., v.",found,v.
+find,v.,extremely,adv.,flour,n.,free,v.
+fine,adj.,factor,n.,flow,"v., n.",freedom,n.
+finish,v.,factory,n.,fold,v.,frequency,n.
+fire,n.,fail,v.,folk,"n., adj.",fuel,v.
+first,"det./number, adv.",fair,adj.,following,n.,fully,adv.
+fish,n.,fall,n.,force,"n., v.",function,v.
+five,number,fan,n.,forever,adv.,fund,"n., v."
+flat,n.,farm,v.,frame,"n., v.",fundamental,adj.
+flight,n.,farming,n.,freeze,v.,funding,n.
+floor,n.,fashion,n.,frequently,adv.,furthermore,adv.
+flower,n.,fat,n.,friendship,n.,gain,"v., n."
+fly,v.,fear,n.,frighten,v.,gang,n.
+follow,v.,feature,n.,frightened,adj.,generate,v.
+food,n.,feed,v.,frightening,adj.,genre,n.
+foot,n.,female,"adj., n.",frozen,adj.,govern,v.
+football,n.,fiction,n.,fry,v.,grab,v.
+for,prep.,field,n.,fuel,n.,grade,v.
+forget,v.,fight,"v., n.",function,n.,gradually,adv.
+form,"n., v.",figure,n.,fur,n.,grand,adj.
+forty,number,film,v.,further,adv.,grant,"v., n."
+four,number,final,n.,garage,n.,guarantee,"v., n."
+fourteen,number,finally,adv.,gather,v.,handle,"v., n."
+fourth,number,finger,n.,generally,adv.,harm,"n., v."
+free,adj.,finish,n.,generation,n.,harmful,adj.
+Friday,n.,first,n.,generous,adj.,hearing,n.
+friend,n.,firstly,adv.,gentle,adj.,heaven,n.
+friendly,adj.,fish,v.,gentleman,n.,heel,n.
+from,prep.,fishing,n.,ghost,n.,hell,n.
+front,"n., adj.",fit,"v., adj.",giant,"adj., n.",hesitate,v.
+fruit,n.,fix,v.,glad,adj.,high,n.
+full,adj.,flat,adj.,global,adj.,hire,n.
+fun,n.,flu,n.,glove,n.,hold,n.
+funny,adj.,fly,n.,go,n.,hollow,adj.
+future,n.,flying,"n., adj.",goods,n.,holy,adj.
+game,n.,focus,"v., n.",grade,n.,honour,"n., v."
+garden,n.,following,adj.,graduate,"n., v.",host,v.
+geography,n.,foreign,adj.,grain,n.,house,v.
+get,v.,forest,n.,grateful,adj.,household,n.
+girl,n.,fork,n.,growth,n.,housing,n.
+girlfriend,n.,formal,adj.,guard,"n., v.",humorous,adj.
+give,v.,fortunately,adv.,guilty,adj.,humour,n.
+glass,n.,forward,adv.,hand,v.,hunt,n.
+go,v.,free,adv.,hang,v.,hunting,n.
+good,adj.,fresh,adj.,happiness,n.,hurt,n.
+goodbye,exclam./n.,fridge,n.,hardly,adv.,ideal,n.
+grandfather,n.,frog,n.,hate,n.,illustrate,v.
+grandmother,n.,fun,adj.,head,v.,illustration,n.
+grandparent,n.,furniture,n.,headline,n.,imagination,n.
+great,adj.,further,adj.,heating,n.,impatient,adj.
+green,"adj., n.",future,adj.,heavily,adv.,imply,v.
+grey,"adj., n.",gallery,n.,helicopter,n.,impose,v.
+group,n.,gap,n.,highlight,"v., n.",impress,v.
+grow,v.,gas,n.,highly,adv.,impressed,adj.
+guess,"v., n.",gate,n.,hire,v.,inch,n.
+guitar,n.,general,adj.,historic,adj.,incident,n.
+gym,n.,gift,n.,historical,adj.,income,n.
+hair,n.,goal,n.,honest,adj.,increasingly,adv.
+half,"n., det./pron.",god,n.,horrible,adj.,industrial,adj.
+hand,n.,gold,"n., adj.",horror,n.,infection,n.
+happen,v.,golf,n.,host,n.,inform,v.
+happy,adj.,good,n.,hunt,v.,initial,adj.
+hard,"adj., adv.",government,n.,hurricane,n.,initially,adv.
+hat,n.,grass,n.,hurry,"n., v.",initiative,n.
+hate,v.,greet,v.,identity,n.,inner,adj.
+have,v.,ground,n.,ignore,v.,insight,n.
+have to,modal v.,guest,n.,illegal,adj.,insist,v.
+he,pron.,guide,"n., v.",imaginary,adj.,inspire,v.
+head,n.,gun,n.,immediate,adj.,install,v.
+health,n.,guy,n.,immigrant,n.,instance,n.
+healthy,adj.,habit,n.,impact,"n., v.",institute,n.
+hear,v.,half,adv.,import,"n., v.",institution,n.
+hello,exclam./n.,hall,n.,importance,n.,insurance,n.
+help,"v., n.",happily,adv.,impression,n.,intended,adj.
+her,"pron., det.",have,auxiliary v.,impressive,adj.,intense,adj.
+here,adv.,headache,n.,improvement,n.,internal,adj.
+hey,exclam.,heart,n.,incredibly,adv.,interpret,v.
+hi,exclam.,heat,"n., v.",indeed,adv.,interrupt,v.
+high,adj.,heavy,adj.,indicate,v.,investigation,n.
+him,pron.,height,n.,indirect,adj.,investment,n.
+his,det.,helpful,adj.,indoor,adj.,issue,v.
+history,n.,hero,n.,indoors,adv.,joy,n.
+hobby,n.,hers,pron.,influence,"n., v.",judgement,n.
+holiday,n.,herself,pron.,ingredient,n.,junior,adj.
+home,"n., adv.",hide,v.,injure,v.,justice,n.
+homework,n.,high,adv.,injured,adj.,justify,v.
+hope,v.,hill,n.,innocent,adj.,labour,n.
+horse,n.,himself,pron.,intelligence,n.,landscape,n.
+hospital,n.,his,pron.,intend,v.,largely,adv.
+hot,adj.,hit,"v., n.",intention,n.,latest,n.
+hotel,n.,hockey,n.,invest,v.,launch,"v., n."
+hour,n.,hold,v.,investigate,v.,leadership,n.
+house,n.,hole,n.,involved,adj.,league,n.
+how,adv.,home,adj.,iron,"n., v.",lean,v.
+however,adv.,hope,n.,issue,n.,leave,n.
+hundred,number,huge,adj.,IT,n.,level,v.
+hungry,adj.,human,"adj., n.",journal,n.,licence,n.
+husband,n.,hurt,"v., adj.",judge,"n., v.",limited,adj.
+I,pron.,ideal,adj.,keen,adj.,line,v.
+ice,n.,identify,v.,key,v.,lively,adj.
+ice cream,n.,ill,adj.,keyboard,n.,load,"n., v."
+idea,n.,illness,n.,kick,"v., n.",loan,n.
+if,conj.,image,n.,killing,n.,logical,adj.
+imagine,v.,immediately,adv.,kind (caring),adj.,long-term,"adj., adv."
+important,adj.,impossible,adj.,kiss,"v., n.",loose,adj.
+improve,v.,included,adj.,knock,n.,lord,n.
+in,"prep., adv.",including,prep.,label,"n., v.",low,n.
+include,v.,increase,"v., n.",laboratory,n.,lower,v.
+information,n.,incredible,adj.,lack,"n., v.",lung,n.
+interest,"n., v.",independent,adj.,latest,adj.,maintain,v.
+interested,adj.,individual,"n., adj.",lay,v.,majority,n.
+interesting,adj.,industry,n.,layer,n.,make,n.
+internet,n.,informal,adj.,lead1,n.,map,v.
+interview,"n., v.",injury,n.,leading,adj.,mass,"n., adj."
+into,prep.,insect,n.,leaf,n.,massive,adj.
+introduce,v.,inside,"prep., adv., n., adj.",leather,n.,master,"n., v."
+island,n.,instead,adv.,legal,adj.,matching,adj.
+it,pron.,instruction,n.,leisure,n.,material,adj.
+its,det.,instructor,n.,length,n.,maximum,"adj., n."
+jacket,n.,instrument,n.,level,adj.,means,n.
+January,n.,intelligent,adj.,lie2 (tell a lie),"v., n.",measurement,n.
+jeans,n.,international,adj.,like (find sb/sth pleasant),n.,medium,n.
+job,n.,introduction,n.,limit,"n., v.",melt,v.
+join,v.,invent,v.,lip,n.,military,"adj., n."
+journey,n.,invention,n.,liquid,"n., adj.",mineral,n.
+juice,n.,invitation,n.,literature,n.,minimum,"adj., n."
+July,n.,invite,v.,live2,"adj., adv.",minister,n.
+June,n.,involve,v.,living,"adj., n.",minor,adj.
+just,adv.,item,n.,local,n.,minority,n.
+keep,v.,itself,pron.,locate,v.,mission,n.
+key,"n., adj.",jam,n.,located,adj.,mistake,v.
+kilometre,n.,jazz,n.,location,n.,mixed,adj.
+kind (type),n.,jewellery,n.,lonely,adj.,model,v.
+kitchen,n.,joke,"n., v.",loss,n.,modify,v.
+know,v.,journalist,n.,luxury,n.,monitor,"n., v."
+land,n.,jump,"v., n.",mad,adj.,moral,"adj., n."
+language,n.,kid,n.,magic,"n., adj.",motor,"n., adj."
+large,adj.,kill,v.,mainly,adv.,mount,v.
+last1 (final),det.,king,n.,mall,n.,multiple,adj.
+late,"adj., adv.",knee,n.,management,n.,multiply,v.
+later,adv.,knife,n.,market,v.,mysterious,adj.
+laugh,"v., n.",knock,v.,marketing,n.,narrow,v.
+learn,v.,knowledge,n.,marriage,n.,national,n.
+leave,v.,lab,n.,meanwhile,adv.,neat,adj.
+left,"adj., adv., n.",lady,n.,measure,"v., n.",negative,n.
+leg,n.,lake,n.,medium,adj.,nerve,n.
+lesson,n.,lamp,n.,mental,adj.,nevertheless,adv.
+let,v.,land,v.,mention,n.,nightmare,n.
+letter,n.,laptop,n.,mess,n.,notion,n.
+library,n.,last1 (final),"adv., n.",mild,adj.,numerous,adj.
+lie1,v.,last1 (taking time),v.,mine (hole in the ground),n.,obey,v.
+life,n.,later,adj.,mix,"v., n.",object,v.
+light (from the sun/a lamp),"n., adj.",laughter,n.,mixture,n.,objective,"n., adj."
+like (similar),prep.,law,n.,mood,n.,obligation,n.
+like (find sb/sth pleasant),v.,lawyer,n.,move,n.,observation,n.
+line,n.,lazy,adj.,mud,n.,observe,v.
+lion,n.,lead1,v.,murder,"n., v.",obtain,v.
+list,"n., v.",leader,n.,muscle,n.,occasionally,adv.
+listen,v.,learning,n.,musical,n.,offence,n.
+little,"adj., det./pron.",least,"det./pron., adv.",mystery,n.,offend,v.
+live1,v.,lecture,"n., v.",nail,n.,offensive,adj.
+local,adj.,lemon,n.,narrative,"n., adj.",official,n.
+long1,"adj., adv.",lend,v.,nation,n.,opening,n.
+look,v.,less,"det./pron., adv.",native,"adj., n.",operate,v.
+lose,v.,level,n.,naturally,adv.,opponent,n.
+lot,"pron., det., adv.",lifestyle,n.,necessarily,adv.,oppose,v.
+love,"n., v.",lift,"v., n.",need,modal v.,opposed,adj.
+lunch,n.,light (from the sun/a lamp),v.,needle,n.,opposition,n.
+machine,n.,light (not heavy),adj.,neighbourhood,n.,organ,n.
+magazine,n.,likely,adj.,neither,adv.,origin,n.
+main,adj.,link,"n., v.",net,n.,otherwise,adv.
+make,v.,listener,n.,next,n.,outcome,n.
+man,n.,little,adv.,nor,conj./adv.,outer,adj.
+many,det./pron.,lock,"v., n.",normal,n.,outline,"n., v."
+map,n.,look,n.,northern,adj.,overall,"adj., adv."
+March,n.,lorry,n.,note,v.,owe,v.
+market,n.,lost,adj.,now,conj.,pace,"n., v."
+married,adj.,loud,"adj., adv.",nuclear,adj.,package,v.
+match (contest/correspond),"n., v.",loudly,adv.,obvious,adj.,panel,n.
+May,n.,lovely,adj.,obviously,adv.,parliament,n.
+maybe,adv.,low,"adj., adv.",occasion,n.,participant,n.
+me,pron.,luck,n.,occur,v.,partly,adv.
+meal,n.,lucky,adj.,odd,adj.,passage,n.
+mean,v.,mail,"n., v.",official,adj.,patient,adj.
+meaning,n.,major,adj.,old-fashioned,adj.,pension1,n.
+meat,n.,male,"adj., n.",once,conj.,permanent,adj.
+meet,v.,manage,v.,operation,n.,permit,"v., n."
+meeting,n.,manager,n.,organized,adj.,perspective,n.
+member,n.,manner,n.,organizer,n.,phase,n.
+menu,n.,mark,"v., n.",original,n.,phenomenon,n.
+message,n.,marry,v.,originally,adv.,philosophy,n.
+metre,n.,material,n.,ought to,modal v.,pick,n.
+midnight,n.,mathematics,n.,ours,pron.,picture,v.
+mile,n.,maths,n.,outdoor,adj.,pile,"n., v."
+milk,n.,matter,"n., v.",outdoors,adv.,pitch,n.
+million,number,may,modal v.,pack,n.,plain,adj.
+minute1,n.,media,n.,package,n.,plot,v.
+miss,v.,medical,adj.,painful,adj.,plus1,"adj., n., conj."
+mistake,n.,medicine,n.,pale,adj.,pointed,adj.
+model,n.,memory,n.,pan,n.,popularity,n.
+modern,adj.,mention,v.,participate,v.,pose,v.
+moment,n.,metal,n.,particularly,adv.,position,v.
+Monday,n.,method,n.,pass,n.,positive,n.
+money,n.,middle,"n., adj.",passion,n.,possess,v.
+month,n.,might,modal v.,path,n.,potential,"adj., n."
+more,"det./pron., adv.",mind,"n., v.",payment,n.,power,v.
+morning,n.,mine (belongs to me),pron.,peaceful,adj.,praise,"n., v."
+most,"det./pron., adv.",mirror,n.,percentage,n.,pregnant,adj.
+mother,n.,missing,adj.,perfectly,adv.,preparation,n.
+mountain,n.,mobile,"adj., n.",performance,n.,presence,n.
+mouse,n.,monkey,n.,personally,adv.,preserve,v.
+mouth,n.,moon,n.,persuade,v.,price,v.
+move,v.,mostly,adv.,photographer,n.,prime,adj.
+movie,n.,motorcycle,n.,photography,n.,principle,n.
+much,"det./pron., adv.",movement,n.,pin,"n., v.",print,n.
+mum,n.,musical,adj.,pipe,n.,priority,n.
+museum,n.,musician,n.,place,v.,privacy,n.
+music,n.,myself,pron.,planning,n.,procedure,n.
+must,modal v.,narrow,adj.,pleasant,adj.,process,v.
+my,det.,national,adj.,pleasure,n.,produce,n.
+name,"n., v.",nature,n.,plenty,pron.,professional,n.
+natural,adj.,nearly,adv.,plot,n.,progress,v.
+near,"prep., adj., adv.",necessary,adj.,plus1,prep.,project,v.
+need,v.,neck,n.,poem,n.,proof,n.
+negative,adj.,need,n.,poet,n.,proposal,n.
+neighbour,n.,neither,det./pron.,poetry,n.,propose,v.
+never,adv.,nervous,adj.,point,v.,prospect,n.
+new,adj.,network,n.,poison,"n., v.",protection,n.
+news,n.,noise,n.,poisonous,adj.,psychologist,n.
+newspaper,n.,noisy,adj.,policy,n.,psychology,n.
+next,"adj., adv.",none,pron.,political,adj.,publication,n.
+next to,prep.,normal,adj.,politician,n.,pupil,n.
+nice,adj.,normally,adv.,politics,n.,purchase,"n., v."
+night,n.,notice,"v., n.",port,n.,pure,adj.
+nine,number,novel,n.,portrait,n.,pursue,v.
+nineteen,number,nowhere,adv.,possibly,adv.,range,v.
+ninety,number,number,v.,pot,n.,rank,"n., v."
+no,"exclam., det.",nut,n.,pour,v.,rapid,adj.
+no one,pron.,ocean,n.,poverty,n.,rapidly,adv.
+nobody,pron.,offer,"v., n.",powder,n.,rate,v.
+north,"n., adj., adv.",officer,n.,powerful,adj.,raw,adj.
+nose,n.,oil,n.,practical,adj.,reach,n.
+not,adv.,onto,prep.,pray,v.,realistic,adj.
+note,n.,opportunity,n.,prayer,n.,reasonable,adj.
+nothing,pron.,option,n.,prediction,n.,recall,v.
+November,n.,ordinary,adj.,prepared,adj.,recover,v.
+now,adv.,organization,n.,presentation,n.,reduction,n.
+number,n.,organize,v.,press,"n., v.",regard,"v., n."
+nurse,n.,original,adj.,pressure,n.,regional,adj.
+object,n.,ourselves,pron.,pretend,v.,register,"v., n."
+o'clock,adv.,outside,"prep., n., adj.",previous,adj.,regret,"v., n."
+October,n.,oven,n.,previously,adv.,regulation,n.
+of,prep.,own,v.,priest,n.,relatively,adv.
+off,"adv., prep.",owner,n.,primary,adj.,relevant,adj.
+office,n.,pack,v.,prince,n.,relief,n.
+often,adv.,pain,n.,princess,n.,rely,v.
+oh,exclam.,painter,n.,printing,n.,remark,"n., v."
+OK,"exclam., adj./adv.",palace,n.,prisoner,n.,representative,"n., adj."
+old,adj.,pants,n.,private,adj.,reputation,n.
+on,"prep., adv.",parking,n.,producer,n.,requirement,n.
+once,adv.,particular,adj.,production,n.,rescue,"v., n."
+one,"number/det., pron.",pass,v.,profession,n.,reserve,"n., v."
+onion,n.,passenger,n.,profit,n.,resident,"n., adj."
+online,"adj., adv.",past,adv.,program,v.,resist,v.
+only,"adj., adv.",patient,n.,promote,v.,resolve,v.
+open,"adj., v.",pattern,n.,proper,adj.,resort,n.
+opinion,n.,pay,n.,properly,adv.,retain,v.
+opposite,"adj., n., prep., adv.",peace,n.,property,n.,reveal,v.
+or,conj.,penny,n.,protest,"n., v.",revolution,n.
+orange,"n., adj.",per,prep.,proud,adj.,reward,"n., v."
+order,"n., v.",per cent,"n., adj./adv.",prove,v.,rhythm,n.
+other,adj./pron.,perform,v.,pull,n.,rid,v.
+our,det.,perhaps,adv.,punish,v.,root,n.
+out,adv./prep.,permission,n.,punishment,n.,round,n.
+outside,adv.,personality,n.,push,n.,routine,adj.
+over,"prep., adv.",pet,n.,qualification,n.,rub,v.
+own,adj./pron.,petrol,n.,qualified,adj.,rubber,"n., adj."
+page,n.,photograph,v.,qualify,v.,rural,adj.
+paint,"v., n.",physical,adj.,queue,"n., v.",rush,"v., n."
+painting,n.,physics,n.,quit,v.,sample,v.
+pair,n.,pick,v.,quotation,n.,satellite,n.
+paper,n.,pilot,n.,quote,"v., n.",satisfied,adj.
+paragraph,n.,planet,n.,race (people),n.,satisfy,v.
+parent,n.,plant,v.,racing,n.,saving,n.
+park,"n., v.",plastic,"n., adj.",range,n.,scale,n.
+part,n.,plate,n.,rare,adj.,schedule,v.
+partner,n.,platform,n.,rarely,adv.,scheme,n.
+party,n.,please,v.,reaction,n.,scream,"v., n."
+passport,n.,pleased,adj.,reality,n.,screen,v.
+past,"adj., n., prep.",pocket,n.,receipt,n.,seat,v.
+pay,v.,polite,adj.,recommendation,n.,sector,n.
+pen,n.,pollution,n.,reference,n.,secure,"v., adj."
+pencil,n.,pop,"n., adj.",reflect,v.,seek,v.
+people,n.,population,n.,regularly,adv.,select,v.
+pepper,n.,position,n.,reject,v.,selection,n.
+perfect,adj.,possession,n.,relate,v.,self,n.
+period,n.,possibility,n.,related,adj.,senior,adj.
+person,n.,poster,n.,relation,n.,sense,v.
+personal,adj.,power,n.,relative,"adj., n.",sensitive,adj.
+phone,"n., v.",predict,v.,relaxed,adj.,sentence,v.
+photo,n.,present,v.,relaxing,adj.,sequence,n.
+photograph,n.,president,n.,release,"v., n.",session,n.
+phrase,n.,prevent,v.,reliable,adj.,settle,v.
+piano,n.,print,v.,religion,n.,severe,adj.
+picture,n.,printer,n.,religious,adj.,shade,n.
+piece,n.,prison,n.,remain,v.,shadow,n.
+pig,n.,prize,n.,remind,v.,shallow,adj.
+pink,"adj., n.",process,n.,remote,adj.,shame,n.
+place,n.,produce,v.,rent,"n., v.",shape,v.
+plan,"n., v.",professional,adj.,repair,n.,shelter,"n., v."
+plane,n.,professor,n.,repeat,n.,shift,v.
+plant,n.,profile,n.,repeated,adj.,ship,v.
+play,"v., n.",program,n.,represent,v.,shock,"n., v."
+player,n.,progress,n.,request,v.,shocked,adj.
+please,exclam.,promise,"v., n.",require,v.,shooting,n.
+point,n.,pronounce,v.,reservation,n.,shot,n.
+police,n.,protect,v.,resource,n.,significant,adj.
+policeman,n.,provide,v.,respect,"n., v.",significantly,adv.
+pool,n.,pub,n.,responsibility,n.,silence,n.
+poor,adj.,public,"adj., n.",responsible,adj.,silk,n.
+popular,adj.,publish,v.,result,v.,sincere,adj.
+positive,adj.,pull,v.,retire,v.,slave,n.
+possible,adj.,purpose,n.,retired,adj.,slide,"v., n."
+post,"n., v.",push,v.,revise,v.,slight,adj.
+potato,n.,quality,n.,ring2,n.,slip,v.
+pound,n.,quantity,n.,rise,n.,slope,"n., v."
+practice,n.,queen,n.,risk,"n., v.",solar,adj.
+practise,v.,question,v.,robot,n.,somewhat,adv.
+prefer,v.,quietly,adv.,roll,"v., n.",soul,n.
+prepare,v.,race (competition),"n., v.",romantic,adj.,specialist,"n., adj."
+present,"adj., n.",railway,n.,rope,n.,species,n.
+pretty,"adj., adv.",raise,v.,rough,adj.,speed,v.
+price,n.,rate,n.,row1,n.,spiritual,adj.
+probably,adv.,rather,adv.,royal,adj.,split,"v., n."
+problem,n.,reach,v.,rugby,n.,sponsor,"v., n."
+product,n.,react,v.,rule,v.,spot,v.
+programme,n.,realize,v.,safety,n.,spread,n.
+project,n.,receive,v.,sail,n.,stable,adj.
+purple,"adj., n.",recent,adj.,sailor,n.,stage,v.
+put,v.,recently,adv.,sample,n.,stand,n.
+quarter,n.,reception,n.,sand,n.,stare,v.
+question,n.,recipe,n.,scan,v.,status,n.
+quick,adj.,recognize,v.,scientific,adj.,steady,adj.
+quickly,adv.,recommend,v.,script,n.,steel,n.
+quiet,adj.,record,"n., v.",sculpture,n.,steep,adj.
+quite,adv.,recording,n.,secondary,adj.,step,v.
+radio,n.,recycle,v.,security,n.,sticky,adj.
+rain,"n., v.",reduce,v.,seed,n.,stiff,adj.
+read,v.,refer,v.,sensible,adj.,stock,n.
+reader,n.,refuse1,v.,separate,v.,stream,n.
+reading,n.,region,n.,seriously,adv.,stretch,"v., n."
+ready,adj.,regular,adj.,servant,n.,strict,adj.
+real,adj.,relationship,n.,set (put),v.,strike,"v., n."
+really,adv.,remove,v.,set (group),n.,structure,v.
+reason,n.,repair,v.,setting,n.,struggle,"v., n."
+red,"adj., n.",replace,v.,sex,n.,stuff,v.
+relax,v.,reply,"v., n.",sexual,adj.,subject,adj.
+remember,v.,report,v.,shake,n.,submit,v.
+repeat,v.,reporter,n.,share,n.,sum,"n., v."
+report,n.,request,n.,sharp,adj.,surgery,n.
+restaurant,n.,research,"n., v.",shelf,n.,surround,v.
+result,n.,researcher,n.,shell,n.,surrounding,adj.
+return,"v., n.",respond,v.,shift,n.,survey,v.
+rice,n.,response,n.,shine,v.,suspect,"v., n."
+rich,adj.,rest (remaining part),n.,shiny,adj.,swear,v.
+ride,v.,rest (sleep/relax),"n., v.",shoot,v.,sweep,v.
+right,"adj., adv., n.",review,"n., v.",shy,adj.,switch,n.
+river,n.,ride,n.,sight,n.,sympathy,n.
+road,n.,ring1,n.,signal,"n., v.",tale,n.
+room,n.,ring2,v.,silent,adj.,tank,n.
+routine,n.,rise,v.,silly,adj.,target,v.
+rule,n.,rock (stone),n.,similarity,n.,tear1,"v., n."
+run,v.,rock (music),n.,similarly,adv.,tear2,n.
+sad,adj.,role,n.,simply,adv.,temporary,adj.
+salad,n.,roof,n.,since,adv.,term,v.
+salt,n.,round,"adj., adv., prep.",sink,v.,therapy,n.
+same,"adj., pron., adv.",route,n.,slice,"n., v.",threat,n.
+sandwich,n.,rubbish,n.,slightly,adv.,threaten,v.
+Saturday,n.,rude,adj.,slow,v.,thus,adv.
+say,v.,run,n.,smart,adj.,time,v.
+school,n.,runner,n.,smooth,adj.,title,v.
+science,n.,running,n.,software,n.,tone,n.
+scientist,n.,sadly,adv.,soil,n.,tough,adj.
+sea,n.,safe,adj.,solid,"adj., n.",track,v.
+second1 (next after the first),det./number,sail,v.,sort,v.,transfer,"v., n."
+second1 (unit of time),n.,sailing,n.,southern,adj.,transform,v.
+section,n.,salary,n.,specifically,adv.,transition,n.
+see,v.,sale,n.,spending,n.,trial,n.
+sell,v.,sauce,n.,spicy,adj.,trip,v.
+send,v.,save,v.,spirit,n.,tropical,adj.
+sentence,n.,scared,adj.,spoken,adj.,trouble,v.
+September,n.,scary,adj.,spot,n.,truly,adv.
+seven,number,scene,n.,spread,v.,trust,"n., v."
+seventeen,number,schedule,n.,spring,v.,try,n.
+seventy,number,score,"v., n.",stadium,n.,tune,n.
+share,v.,screen,n.,staff,n.,tunnel,n.
+she,pron.,search,"n., v.",standard,"n., adj.",ultimately,adv.
+sheep,n.,season,n.,state,"adj., v.",unconscious,adj.
+shirt,n.,seat,n.,statistic,n.,unexpected,adj.
+shoe,n.,second1 (next after the first),adv.,statue,n.,unique,adj.
+shop,"n., v.",secondly,adv.,stick (push into/attach),v.,universe,n.
+shopping,n.,secret,"adj., n.",stick (piece of wood),n.,unknown,adj.
+short,adj.,secretary,n.,still,adj.,upper,adj.
+should,modal v.,seem,v.,store,v.,upwards,adv.
+show,"v., n.",sense,n.,stranger,n.,urban,adj.
+shower,n.,separate,adj.,strength,n.,urge,v.
+sick,adj.,series,n.,string,n.,value,v.
+similar,adj.,serious,adj.,strongly,adv.,vary,v.
+sing,v.,serve,v.,studio,n.,vast,adj.
+singer,n.,service,n.,stuff,n.,venue,n.
+sister,n.,several,det./pron.,substance,n.,very,adj.
+sit,v.,shake,v.,successfully,adv.,via,prep.
+situation,n.,shall,modal v.,sudden,adj.,victory,n.
+six,number,shape,n.,suffer,v.,violence,n.
+sixteen,number,sheet,n.,suit,v.,virtual,adj.
+sixty,number,ship,n.,suitable,adj.,vision,n.
+skill,n.,shoulder,n.,summarize,v.,visual,adj.
+skirt,n.,shout,"v., n.",summary,n.,vital,adj.
+sleep,v.,shut,"v., adj.",supply,"n., v.",vitamin,n.
+slow,adj.,side,n.,supporter,n.,volume,n.
+small,adj.,sign,"n., v.",surely,adv.,wage,n.
+snake,n.,silver,"n., adj.",surface,n.,way,adv.
+snow,"n., v.",simple,adj.,survive,v.,weakness,n.
+so,"adv., conj.",since,"prep., conj.",swim,n.,wealth,n.
+some,"det., pron.",singing,n.,switch,v.,wealthy,adj.
+somebody,pron.,single,"adj., n.",symptom,n.,whereas,conj.
+someone,pron.,sir,n.,tail,n.,wherever,conj.
+something,pron.,site,n.,talent,n.,whisper,"v., n."
+sometimes,adv.,size,n.,talented,adj.,whom,pron.
+son,n.,ski,"v., adj., n.",tape,n.,widely,adv.
+song,n.,skiing,n.,tax,"n., v.",wildlife,n.
+soon,adv.,skin,n.,technical,adj.,willing,adj.
+sorry,"adj., exclam.",sky,n.,technique,n.,wind2,v.
+sound,"n., v.",sleep,n.,tend,v.,wire,n.
+soup,n.,slowly,adv.,tent,n.,wise,adj.
+south,"n., adj., adv.",smartphone,n.,that,adv.,witness,"n., v."
+space,n.,smell,"v., n.",theirs,pron.,worse,n.
+speak,v.,smile,"v., n.",theme,n.,worst,n.
+special,adj.,smoke,"n., v.",theory,n.,worth,n.
+spell,v.,smoking,n.,therefore,adv.,wound,"n., v."
+spelling,n.,soap,n.,this,adv.,wrap,v.
+spend,v.,soccer,n.,though,"conj., adv.",wrong,n.
+sport,n.,social,adj.,throat,n.,yet,conj.
+spring,n.,society,n.,throughout,prep./adv.,zone,n.
+stand,v.,sock,n.,tight,adj.,,
+star,n.,soft,adj.,till,conj./prep.,,
+start,v.,soldier,n.,tin,n.,,
+statement,n.,solution,n.,tiny,adj.,,
+station,n.,solve,v.,tip,v.,,
+stay,v.,somewhere,"adv., pron.",toe,n.,,
+still,adv.,sort,n.,tongue,n.,,
+stop,"v., n.",source,n.,total,"adj., n.",,
+story,n.,speaker,n.,totally,adv.,,
+street,n.,specific,adj.,touch,n.,,
+strong,adj.,speech,n.,tour,v.,,
+student,n.,speed,n.,trade,"n., v.",,
+study,"n., v.",spider,n.,translate,v.,,
+style,n.,spoon,n.,translation,n.,,
+subject,n.,square,"adj., n.",transport,v.,,
+success,n.,stage,n.,treat,v.,,
+sugar,n.,stair,n.,treatment,n.,,
+summer,n.,stamp,n.,trend,n.,,
+sun,n.,star,v.,trick,"n., v.",,
+Sunday,n.,start,n.,truth,n.,,
+supermarket,n.,state,n.,tube,n.,,
+sure,adj.,stay,n.,type,v.,,
+sweater,n.,steal,v.,typically,adv.,,
+swim,v.,step,n.,tyre,n.,,
+swimming,n.,stomach,n.,ugly,adj.,,
+table,n.,stone,n.,unable,adj.,,
+take,v.,store,n.,uncomfortable,adj.,,
+talk,v.,storm,n.,underwear,n.,,
+tall,adj.,straight,"adv., adj.",unemployed,adj.,,
+taxi,n.,strange,adj.,unemployment,n.,,
+tea,n.,strategy,n.,unfair,adj.,,
+teach,v.,stress,"n., v.",union,n.,,
+teacher,n.,structure,n.,unless,conj.,,
+team,n.,stupid,adj.,unlike,prep.,,
+teenager,n.,succeed,v.,unlikely,adj.,,
+telephone,"n., v.",successful,adj.,unnecessary,adj.,,
+television,n.,such,det./pron.,unpleasant,adj.,,
+tell,v.,suddenly,adv.,update,"v., n.",,
+ten,number,suggest,v.,upon,prep.,,
+tennis,n.,suggestion,n.,upset,"adj., v.",,
+terrible,adj.,suit,n.,used1,adj.,,
+test,"n., v.",support,"v., n.",used2,adj.,,
+text,n.,suppose,v.,valuable,adj.,,
+than,conj.,sure,adv.,value,n.,,
+thank,v.,surprise,"n., v.",various,adj.,,
+thanks,"exclam., n.",surprised,adj.,version,n.,,
+that,"det., pron., conj.",surprising,adj.,victim,n.,,
+the,definite article,survey,n.,view,v.,,
+theatre,n.,sweet,"adj., n.",viewer,n.,,
+their,det.,symbol,n.,violent,adj.,,
+them,pron.,system,n.,volunteer,"n., v.",,
+then,adv.,tablet,n.,vote,"n., v.",,
+there,adv.,talk,n.,warm,v.,,
+they,pron.,target,n.,warn,v.,,
+thing,n.,task,n.,warning,n.,,
+think,v.,taste,"n., v.",waste,"n., v., adj.",,
+third,number,teaching,n.,water,v.,,
+thirsty,adj.,technology,n.,wave,v.,,
+thirteen,number,teenage,adj.,weapon,n.,,
+thirty,number,temperature,n.,weigh,v.,,
+this,det./pron.,term,n.,western,adj.,,
+thousand,number,text,v.,whatever,det./pron.,,
+three,number,themselves,pron.,whenever,conj.,,
+through,"prep., adv.",thick,adj.,whether,conj.,,
+Thursday,n.,thief,n.,while,n.,,
+ticket,n.,thin,adj.,whole,n.,,
+time,n.,thinking,n.,will,n.,,
+tired,adj.,third,n.,win,n.,,
+title,n.,thought,n.,wing,n.,,
+to,"prep., infinitive marker",throw,v.,within,prep.,,
+today,"adv., n.",tidy,"adj., v.",wonder,"v., n.",,
+together,adv.,tie,"v., n.",wool,n.,,
+toilet,n.,tip,n.,worldwide,"adj., adv.",,
+tomato,n.,tool,n.,worry,n.,,
+tomorrow,"adv., n.",top,"n., adj.",worse,adv.,,
+tonight,"adv., n.",touch,v.,worst,adv.,,
+too,adv.,tour,n.,worth,adj.,,
+tooth,n.,tourism,n.,written,adj.,,
+topic,n.,towards,prep.,wrong,adv.,,
+tourist,n.,towel,n.,yard,n.,,
+town,n.,tower,n.,young,n.,,
+traffic,n.,toy,"n., adj.",youth,n.,,
+train,n.,track,n.,,,,
+travel,"v., n.",tradition,n.,,,,
+tree,n.,traditional,adj.,,,,
+trip,n.,train,v.,,,,
+trousers,n.,trainer,n.,,,,
+true,adj.,training,n.,,,,
+try,v.,transport,n.,,,,
+T-shirt,n.,traveller,n.,,,,
+Tuesday,n.,trouble,n.,,,,
+turn,"v., n.",truck,n.,,,,
+TV,n.,twin,"n., adj.",,,,
+twelve,number,typical,adj.,,,,
+twenty,number,underground,"adj., adv.",,,,
+twice,adv.,understanding,n.,,,,
+two,number,unfortunately,adv.,,,,
+type,n.,unhappy,adj.,,,,
+umbrella,n.,uniform,n.,,,,
+uncle,n.,unit,n.,,,,
+under,"prep., adv.",united,adj.,,,,
+understand,v.,unusual,adj.,,,,
+university,n.,upstairs,adj.,,,,
+until,conj./prep.,use,n.,,,,
+up,"adv., prep.",used to,modal v.,,,,
+upstairs,adv.,user,n.,,,,
+us,pron.,usual,adj.,,,,
+use,v.,valley,n.,,,,
+useful,adj.,van,n.,,,,
+usually,adv.,variety,n.,,,,
+vacation,n.,vehicle,n.,,,,
+vegetable,n.,view,n.,,,,
+very,adv.,virus,n.,,,,
+video,n.,voice,n.,,,,
+village,n.,wait,n.,,,,
+visit,"v., n.",war,n.,,,,
+visitor,n.,wash,n.,,,,
+wait,v.,washing,n.,,,,
+waiter,n.,wave,n.,,,,
+wake,v.,weak,adj.,,,,
+walk,"v., n.",web,n.,,,,
+wall,n.,wedding,n.,,,,
+want,v.,weight,n.,,,,
+warm,adj.,welcome,n.,,,,
+wash,v.,wet,adj.,,,,
+watch,"v., n.",wheel,n.,,,,
+water,n.,while,conj.,,,,
+way,n.,whole,adj.,,,,
+we,pron.,whose,det./pron.,,,,
+wear,v.,wide,adj.,,,,
+weather,n.,wild,adj.,,,,
+website,n.,wind1,n.,,,,
+Wednesday,n.,winner,n.,,,,
+week,n.,wish,"v., n.",,,,
+weekend,n.,wood,n.,,,,
+welcome,"exclam., v., adj.",wooden,adj.,,,,
+well,"adv., adj., exclam.",working,adj.,,,,
+west,"n., adj., adv.",worried,adj.,,,,
+what,pron./det.,worry,v.,,,,
+when,"adv., pron., conj.",worse,adj.,,,,
+where,"adv., conj.",worst,adj.,,,,
+which,pron./det.,wow,exclam.,,,,
+white,"adj., n.",yet,adv.,,,,
+who,pron.,yours,pron.,,,,
+why,adv.,zero,number,,,,
+wife,n.,,,,,,
+will,modal v.,,,,,,
+win,v.,,,,,,
+window,n.,,,,,,
+wine,n.,,,,,,
+winter,n.,,,,,,
+with,prep.,,,,,,
+without,prep.,,,,,,
+woman,n.,,,,,,
+wonderful,adj.,,,,,,
+word,n.,,,,,,
+work,"v., n.",,,,,,
+worker,n.,,,,,,
+world,n.,,,,,,
+would,modal v.,,,,,,
+write,v.,,,,,,
+writer,n.,,,,,,
+writing,n.,,,,,,
+wrong,adj.,,,,,,
+yeah,exclam.,,,,,,
+year,n.,,,,,,
+yellow,"adj., n.",,,,,,
+yes,exclam.,,,,,,
+yesterday,"adv., n.",,,,,,
+you,pron.,,,,,,
+young,adj.,,,,,,
+your,det.,,,,,,
+yourself,pron.,,,,,,
